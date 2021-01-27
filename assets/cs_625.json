@@ -1,0 +1,2455 @@
+{
+    "a": {
+        "ano": {
+            "value": "yes",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/P_yes_green.svg/1138px-P_yes_green.svg.png"
+        },
+        "armáda": {
+            "value": "army",
+            "img": "https://mwi.usma.edu/wp-content/uploads/2019/06/5228102-1200x640.jpg"
+        },
+        "auto": {
+            "value": "car",
+            "img": "https://assets.volvocars.com/cz/~/media/shared-assets/master/images/pages/this-is-volvo-cars/this_is_volvo_cars_pdphero.jpg?w=480"
+        },
+        "autobus": {
+            "value": "bus",
+            "img": "https://www.sustainable-bus.com/wp-content/uploads/2019/12/scania-bus4.jpg"
+        },
+        "autor": {
+            "value": "author",
+            "img": "https://s3.amazonaws.com/media.briantracy.com/blog/wp-content/uploads/2019/01/21122940/how-to-become-an-author-brian-tracy.png"
+        }
+    },
+    "b": {
+        "babička": {
+            "value": "grandmother",
+            "img": "https://images.theconversation.com/files/273363/original/file-20190508-183093-8d1n2j.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip"
+        },
+        "banán": {
+            "value": "banana",
+            "img": "https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg"
+        },
+        "banka": {
+            "value": "bank",
+            "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-125244,resizemode-1,msid-77066632/industry/banking/finance/banking/privatisation-drive-india-plans-to-reduce-number-of-state-owned-banks-to-just-five-say-sources.jpg"
+        },
+        "bankovka/účet": {
+            "value": "banknote/account",
+            "img": "https://www.moneycrashers.com/wp-content/uploads/2018/08/bank-account-promotions-1068x713.jpg"
+        },
+        "bar": {
+            "value": "bar",
+            "img": "https://www.worldsbestbars.com/wp-content/uploads/2018/05/cocktail-bar-barcelona.jpg"
+        },
+        "barva": {
+            "value": "color",
+            "img": "https://www.pmg.com/wp-content/uploads/2015/04/colorCircle_03.jpg"
+        },
+        "barva (malířská)": {
+            "value": "paint",
+            "img": "https://thedesigntabloid.files.wordpress.com/2011/07/open-jars-with-colored-oil-paint.jpg"
+        },
+        "bazén": {
+            "value": "swimming pool",
+            "img": "https://www.24hplans.com/wp-content/uploads/2017/06/pond-like-swimming-pool.jpg"
+        },
+        "benzín": {
+            "value": "benzine",
+            "img": "http://s.s-bol.com/imgbase0/imagebase3/large/FC/7/7/9/7/9200000016497977.jpg"
+        },
+        "běžet": {
+            "value": "run",
+            "img": "http://www.appliedracemgmt.com/wp-content/uploads/2016/02/Run-fast.jpg"
+        },
+        "bílý": {
+            "value": "white",
+            "img": "https://www.marbletrend.com/wp-content/uploads/2017/11/Veneto-White_1.jpg"
+        },
+        "bít": {
+            "value": "fight",
+            "img": "https://cdn.vox-cdn.com/thumbor/IDD2QhlIy3L68b682MaZM-yJa7c=/0x3:3000x1691/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/50069563/507700358.0.jpg"
+        },
+        "bohatý": {
+            "value": "rich",
+            "img": "http://savagehenrymagazine.com/wp-content/uploads/2017/02/rich-man.jpg"
+        },
+        "bojovat": {
+            "value": "combat",
+            "img": "https://i.ytimg.com/vi/8EUzQuPoJ88/maxresdefault.jpg"
+        },
+        "bolest": {
+            "value": "pain",
+            "img": "https://www.fitness1440.com/wp-content/uploads/2018/02/knee-pain.jpg"
+        },
+        "boty": {
+            "value": "shoes",
+            "img": "https://stylemann.com/wp-content/uploads/2016/12/15-Grey-Suede-Brogue-Shoes-Blue-Trousers-e1482761706767.jpg"
+        },
+        "bratr": {
+            "value": "brother",
+            "img": "https://thumbs.dreamstime.com/z/older-brother-sofa-hugging-younger-brother-older-brother-sofa-hugging-younger-brother-family-portrait-111013610.jpg"
+        },
+        "březen": {
+            "value": "March",
+            "img": "https://www.calibrerealestate.com.au/wp-content/uploads/2015/03/March-Calendar_PC-1600x900.jpg"
+        },
+        "budova": {
+            "value": "building",
+            "img": "http://wonderfulengineering.com/wp-content/uploads/2014/01/building-wallpaper.jpeg"
+        },
+        "bůh": {
+            "value": "god",
+            "img": "https://i.ytimg.com/vi/3zV2Iaq4bGI/maxresdefault.jpg"
+        },
+        "byt": {
+            "value": "apartment",
+            "img": "https://passiveincomemd.com/wp-content/uploads/2020/01/investing_in_apartment_buildings-scaled.jpg"
+        }
+    },
+    "c": {
+        "cena": {
+            "value": "price",
+            "img": "https://www.gsb.stanford.edu/sites/gsb/files/photo-walmart-juice-shelf-price-sign.jpg"
+        },
+        "centimetr": {
+            "value": "centimeter",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ruler_with_millimeter_and_centimeter_marks.png"
+        },
+        "cítit (vůni)": {
+            "value": "smell",
+            "img": "https://news.berkeley.edu/wp-content/uploads/2015/06/FlowerSmell7501.jpg"
+        },
+        "citron": {
+            "value": "lemon",
+            "img": "http://healthyfoodhouse.com/wp-content/uploads/2015/03/14-secret-powers-of-lemon.jpg"
+        },
+        "cukr": {
+            "value": "sugar",
+            "img": "https://health.clevelandclinic.org/wp-content/uploads/sites/3/2015/05/SugarCubes-2-1200x630.jpg"
+        },
+        "cvičení": {
+            "value": "exercises",
+            "img": "https://www.moneycrashers.com/wp-content/uploads/2019/01/stability-ball-exercises-workouts.jpg"
+        },
+        "čaj": {
+            "value": "tea",
+            "img": "https://www.healthline.com/assets/0x1528/hlcmsresource/images/chamomile-tea.jpg"
+        },
+        "čas": {
+            "value": "time",
+            "img": "https://www.trifectatrans.com/wp-content/uploads/2016/06/time-critical-stopwatch-with-hand-min-e1466717142578.jpg"
+        },
+        "časopis": {
+            "value": "magazine",
+            "img": "https://www.discountmags.ca/shopimages/products/normal/extra/i/12063-american-survival-guide-Cover-2017-December-1-Issue.jpg"
+        },
+        "černý": {
+            "value": "black",
+            "img": "https://blog.hdwallsource.com/wp-content/uploads/2014/11/black-wallpaper-27635-28354-hd-wallpapers.jpg"
+        },
+        "červen": {
+            "value": "June",
+            "img": "https://i1.wp.com/c.tadst.com/gfx/750w/the-month-june.jpg?w=696&ssl=1"
+        },
+        "červenec": {
+            "value": "July",
+            "img": "https://zahradkaruvrok.cz/wp-content/uploads/2016/06/cervenec2.jpg"
+        },
+        "červený": {
+            "value": "red",
+            "img": "https://i.ytimg.com/vi/Z22ybbA2NMA/maxresdefault.jpg"
+        },
+        "číslo": {
+            "value": "number",
+            "img": "https://www.printablee.com/postpic/2014/07/large-number-cards-0-9_241147.jpg"
+        },
+        "čistit/uklízet": {
+            "value": "clean",
+            "img": "https://i0.wp.com/www.360precisioncleaning.com/wp-content/uploads/2018/05/deep-clean.jpeg?resize=700%2C467&ssl=1"
+        },
+        "čistý": {
+            "value": "clear",
+            "img": "https://naturehdwallpapers.files.wordpress.com/2013/10/clear-hd-lake-desktop-wallpaper.jpg?w=1920&h=1200"
+        },
+        "číšník": {
+            "value": "waiter",
+            "img": "http://i.huffpost.com/gen/2676264/images/o-WAITER-MATURE-facebook.jpg"
+        },
+        "clověk (=/ zvíře)": {
+            "value": "human",
+            "img": "https://cdn-group.bnpparibas.com/media/cache/share/uploads/image/human_c_humankind_production_all_rights_reserved.jpg"
+        },
+        "člun": {
+            "value": "boat",
+            "img": "http://www.hinckleyyachts.com/wp-content/uploads/2018/06/Hinckley-Picnic-Boat-40-Web-2-1-1280x853.jpg"
+        },
+        "čtrnáct": {
+            "value": "fourteen",
+            "img": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9619_fit512.jpg"
+        },
+        "čtverec": {
+            "value": "square",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Square_-_black_simple.svg/1200px-Square_-_black_simple.svg.png"
+        },
+        "čtvrtek": {
+            "value": "thursday",
+            "img": "https://previews.123rf.com/images/kreangagirl/kreangagirl1611/kreangagirl161100018/68282739-happy-thursday-text-on-orange-watercolor-background-.jpg"
+        },
+        "čtvrtý": {
+            "value": "fourth",
+            "img": "https://www.grammar-monster.com/easily_confused/pics/forth_or_fourth.png"
+        },
+        "čtyři": {
+            "value": "four",
+            "img": "https://tyrannyoftradition.files.wordpress.com/2012/01/4.jpg"
+        },
+        "čtyřicet": {
+            "value": "forty",
+            "img": "https://shinysideup2.files.wordpress.com/2019/06/forty-square-card-27639_0.jpg"
+        }
+    },
+    "d": {
+        "dárek": {
+            "value": "gift",
+            "img": "http://weknowyourdreams.com/images/gift/gift-11.jpg"
+        },
+        "datum": {
+            "value": "date",
+            "img": "https://www.pangeanic.com/wp-content/uploads/sites/2/2016/06/different-calendar-date-conventions.jpg"
+        },
+        "dav (podst. jm.)": {
+            "value": "crowd",
+            "img": "http://spacenews.com/wp-content/uploads/2015/03/launch_spectators_crowd.jpg"
+        },
+        "dcera": {
+            "value": "daughter",
+            "img": "http://embracingbeauty.com/wp-content/uploads/2011/06/Mom-Daughter-Reading.jpg"
+        },
+        "dědeček": {
+            "value": "grandfather",
+            "img": "https://www.crisisprevention.com/CPI/media/Media/images/grandfather_000051478356.jpg?w=1200&h=630&mode=crop"
+        },
+        "den": {
+            "value": "day",
+            "img": "http://vignette2.wikia.nocookie.net/pixar/images/5/54/Day%26night.png/revision/latest?cb=20110604235602"
+        },
+        "deset": {
+            "value": "ten",
+            "img": "https://cdn0.iconfinder.com/data/icons/numbers-16/24/ten-512.png"
+        },
+        "déšť": {
+            "value": "rain",
+            "img": "https://goweathernow.com/wp-content/uploads/2020/09/rain-falling.jpg"
+        },
+        "devadesát": {
+            "value": "ninety",
+            "img": "https://globalsymbols.com/uploads/production/image/imagefile/22441/17_22442_3fa3cc85-6b96-4a2e-90e1-a72766a64245.png"
+        },
+        "devět": {
+            "value": "nine",
+            "img": "https://pbs.twimg.com/profile_images/525678643503042560/2Oo1-1mP.jpeg"
+        },
+        "diamant": {
+            "value": "diamond",
+            "img": "https://static.scientificamerican.com/sciam/cache/file/D78728AD-1FD6-431E-9F2933C6D544D339_source.jpg"
+        },
+        "díra": {
+            "value": "hole",
+            "img": "https://c.files.bbci.co.uk/3E1D/production/_111010951_natwestholeclose.jpg"
+        },
+        "dítě": {
+            "value": "child",
+            "img": "https://i1.wp.com/www.additudemag.com/wp-content/uploads/2016/11/Parent_Life_Positive-reinforcement-for-ADHD-children_Article_812_girl-thumbs-up_ts_505175324-1-scaled.jpg"
+        },
+        "divadlo": {
+            "value": "theatre",
+            "img": "https://cn.wyser-search.com/wp-content/uploads/sites/7/theatre-and-business.jpg"
+        },
+        "dívka": {
+            "value": "girl",
+            "img": "https://i.pinimg.com/originals/f0/a6/4e/f0a64e32194d341befecc80458707565.jpg"
+        },
+        "dlouhý": {
+            "value": "log",
+            "img": "https://www.stoliverplunkettsballyhegan.co.uk/cmsfiles/items/gallery/191_o_1bujpjlh6166hekg1ogvsav1sjsc.jpeg"
+        },
+        "dobrý": {
+            "value": "good",
+            "img": "https://media.nesta.org.uk/images/good_help_bad_help.max-1200x600.png"
+        },
+        "dolar": {
+            "value": "dollar",
+            "img": "https://cdn.britannica.com/14/145414-050-DF5E9F61/banknote.jpg"
+        },
+        "dole": {
+            "value": "down",
+            "img": "https://media.mehrnews.com/d/2019/12/22/4/3326274.jpg"
+        },
+        "dolů": {
+            "value": "down",
+            "img": "https://media.mehrnews.com/d/2019/12/22/4/3326274.jpg"
+        },
+        "dopis": {
+            "value": "letter",
+            "img": "https://www.collinsdictionary.com/images/full/letter_677777455_1000.jpg"
+        },
+        "doprava": {
+            "value": "transport",
+            "img": "https://ec.europa.eu/eurostat/documents/29567/8761699/shutterstock_326572730_cherezoff.jpg/da6dd32e-5ec1-49e0-86c4-18a053a11210?t=1527768310000"
+        },
+        "dospělý (= muž/žena)": {
+            "value": "adult",
+            "img": "https://miro.medium.com/max/10368/1*KoNZSR02QHIlR1rCvNqxtA.jpeg"
+        },
+        "dotýkat se": {
+            "value": "touch",
+            "img": "https://cuddlesanctuary.com/wp-content/uploads/2017/07/touch-0c8e9b26e6a67bc64f4ab6dc54641ce5ee182eec-s900-c85.jpg"
+        },
+        "drahý": {
+            "value": "expensive",
+            "img": "https://cdn.searchenginejournal.com/wp-content/uploads/2017/07/expensive-keywords-1520x800.png"
+        },
+        "droga": {
+            "value": "drug",
+            "img": "https://www.commonwealthfund.org/sites/default/files/prescription-drug-prices-binding-arbitration_21x9.jpg"
+        },
+        "druhý": {
+            "value": "second",
+            "img": "https://www.sticker.com/picture_library/product_images/award-ribbons/72435_2nd-second-place-award-ribbon-stickers-and-labels.png"
+        },
+        "dřevo": {
+            "value": "wood",
+            "img": "https://thepaintpeople.com/wp-content/uploads/2015/09/prepare-bare-wood-staining.jpg"
+        },
+        "duben": {
+            "value": "April",
+            "img": "https://i.ytimg.com/vi/LKpB8v3Ndz8/maxresdefault.jpg"
+        },
+        "dům": {
+            "value": "house",
+            "img": "https://images.adsttc.com/media/images/5e1d/02c3/3312/fd58/9c00/06e9/large_jpg/NewHouse_SA_Photo_01.jpg?1578959519"
+        },
+        "dva": {
+            "value": "two",
+            "img": "https://pbs.twimg.com/profile_images/1063072496809840640/eZHKA0Jp_400x400.jpg"
+        },
+        "dvacet": {
+            "value": "twenty",
+            "img": "https://image.winudf.com/v2/image/bmV0LmZyZW5jaGd1eXMudHdlbnR5X2ljb25fMTUzMTQ2NDIxMF8wOTM/icon.png?w=&fakeurl=1"
+        },
+        "dvanáct": {
+            "value": "twelve",
+            "img": "https://miro.medium.com/max/4000/1*nYGponjNIYC51skgMpo9jw.png"
+        },
+        "dveře": {
+            "value": "door",
+            "img": "https://4.imimg.com/data4/QY/YX/MY-23796424/wooden-work-500x500.jpg"
+        },
+        "dvorek": {
+            "value": "yard",
+            "img": "https://s3-production.bobvila.com/articles/wp-content/uploads/2017/07/level-yard.jpg"
+        },
+        "džus": {
+            "value": "juice",
+            "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/02/carrot-juice.jpg"
+        }
+    },
+    "e": {
+        "energie": {
+            "value": "energy",
+            "img": "https://balkangreenenergynews.com/wp-content/uploads/2019/09/Greece-working-on-new-energy-storage-support-framework.jpg"
+        }
+    },
+    "f": {
+        "fanoušek": {
+            "value": "fan",
+            "img": "https://thumbs.dreamstime.com/b/sports-emotions-fan-people-concept-sad-man-watching-tv-supporting-team-home-human-young-crying-emotional-screaming-114711262.jpg"
+        },
+        "film": {
+            "value": "film",
+            "img": "https://ineews.eu/wp-content/uploads/2018/09/film.jpg"
+        },
+        "fotoaparát": {
+            "value": "camera",
+            "img": "https://static.bhphoto.com/images/images1000x1000/1536120359_1433711.jpg"
+        },
+        "fotografie": {
+            "value": "photo",
+            "img": "https://about.canva.com/wp-content/uploads/sites/3/2019/02/feature1.jpg"
+        }
+    },
+    "h": {
+        "házet": {
+            "value": "throw",
+            "img": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/b/74/b74909fd-8773-5ec7-94b5-5105c7a767f2/59e56f2994b70.image.jpg?resize=1200%2C833"
+        },
+        "herec": {
+            "value": "actor",
+            "img": "https://cdn.luxatic.com/wp-content/uploads/2019/05/Tom-Cruise.jpg"
+        },
+        "hlas": {
+            "value": "voice",
+            "img": "https://www.houstonmethodist.org/-/media/Images/Contenthub/Article-Images/Ear-Nose-Throat/Hub_LosingYourVoice_Social.jpg"
+        },
+        "hlasitý": {
+            "value": "loud",
+            "img": "https://swbswerg03.blob.core.windows.net/cache/4/3/c/8/e/a/43c8eacd173cb7befa90693cf110f2d055f071dc.jpg"
+        },
+        "hlava": {
+            "value": "head",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Human_head_and_brain_diagram.svg/1200px-Human_head_and_brain_diagram.svg.png"
+        },
+        "hlína": {
+            "value": "dirt",
+            "img": "https://miro.medium.com/max/1000/1*d8DyNLUIa8xo5rGrO-2FSg.jpeg"
+        },
+        "hluboký": {
+            "value": "deep",
+            "img": "https://www.bluedotproductions.com/wp-content/uploads/2018/06/InDeep.jpg"
+        },
+        "hluchý": {
+            "value": "deaf",
+            "img": "https://www.3playmedia.com/wp-content/uploads/national-deaf-awareness-month-blog-header-1-1400x933.jpg"
+        },
+        "hmotnost": {
+            "value": "mass",
+            "img": "https://webstockreview.net/images/weight-clipart-black-and-white-10.png"
+        },
+        "hnědý": {
+            "value": "brown",
+            "img": "https://www.solidbackgrounds.com/images/3840x2160/3840x2160-dark-brown-solid-color-background.jpg"
+        },
+        "hodina": {
+            "value": "hour",
+            "img": "https://images.squarespace-cdn.com/content/v1/527a7260e4b0be237f29f173/1483806667333-HAODU3QJUZHZGMVMXVHJ/ke17ZwdGBToddI8pDm48kAvjv6tW_eojYQmNU0ncbllZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE_VY_cglP6yityajqrIbVfw3TjDuHzK94NrGguHYhX4kv4GTirjbzL979ZUwirIkM/image-asset.jpeg"
+        },
+        "hodiny (předmět)": {
+            "value": "clock",
+            "img": "https://www.ikea.com/mx/en/images/products/tjalla-wall-clock__0633571_PE695905_S5.JPG"
+        },
+        "hodný": {
+            "value": "kind",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/719Zt+y2W0L.jpg"
+        },
+        "hora": {
+            "value": "mountain",
+            "img": "https://m.dw.com/image/48396304_101.jpg"
+        },
+        "horko": {
+            "value": "heat",
+            "img": "https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2015/05/hotSummerDiabetes-1243760572-770x533-1-650x428.jpg"
+        },
+        "horký": {
+            "value": "hot",
+            "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/324/324771/close-up-of-a-cup-of-tea.jpg"
+        },
+        "hořet": {
+            "value": "burn",
+            "img": "https://dnr.wi.gov/images/news/2020/20200326_ground_fire_burn_permits.jpg"
+        },
+        "hotel": {
+            "value": "hotel",
+            "img": "https://cf.bstatic.com/images/hotel/max1024x768/192/192958857.jpg"
+        },
+        "hovězí (maso)": {
+            "value": "beef",
+            "img": "https://cdn.britannica.com/68/143268-050-917048EA/Beef-loin.jpg"
+        },
+        "hra": {
+            "value": "game",
+            "img": "https://i.guim.co.uk/img/media/c6f7b43fa821d06fe1ab4311e558686529931492/168_84_1060_636/master/1060.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=fd98bc73a66809dbb678b1a88aa6f96c"
+        },
+        "hráč": {
+            "value": "player",
+            "img": "https://resources.premierleague.com/photos/2020/08/15/11f41825-bb83-43e6-a6d3-d10f556ec92a/foden-new-shirt.jpg?width=860&height=573"
+        },
+        "hrana": {
+            "value": "edge",
+            "img": "https://i.ebayimg.com/images/g/GBYAAOSwl4Va7akI/s-l400.jpg"
+        },
+        "hrát (/si)": {
+            "value": "play",
+            "img": "https://miro.medium.com/max/2756/1*BumZfVPX5-PgTNk7sCzJVQ.jpeg"
+        },
+        "hrnek": {
+            "value": "cup",
+            "img": "https://cdn.shopify.com/s/files/1/2081/7373/products/452345_1500x.jpg?v=1600263504"
+        },
+        "hudba": {
+            "value": "music",
+            "img": "https://www.kenningtonacademy.co.uk/wp-content/uploads/2020/09/music.png"
+        },
+        "hvězda": {
+            "value": "star",
+            "img": "https://i.pinimg.com/originals/c0/f6/45/c0f6453a33f3cfed2934a96202508e45.jpg"
+        }
+    },
+    "ch": {
+        "chladný": {
+            "value": "cold",
+            "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/325/325151/woman-wrapped-up-in-a-blanket-wondering-why-am-i-always-cold.jpg"
+        },
+        "chlapec": {
+            "value": "boy",
+            "img": "https://cdn.parkrecord.com/wp-content/uploads/sites/11/2020/07/missingboy-tpr-070420-1.jpg"
+        },
+        "chléb": {
+            "value": "bread",
+            "img": "https://food-images.files.bbci.co.uk/food/recipes/paul_hollywoods_crusty_83536_16x9.jpg"
+        },
+        "chodidlo": {
+            "value": "foot",
+            "img": "https://www.wuwm.com/sites/wuwm/files/styles/x_large/public/201911/AdobeStock_245471467.jpeg"
+        },
+        "chodit": {
+            "value": "walk",
+            "img": "https://images.squarespace-cdn.com/content/v1/54fbb611e4b0d7c1e151d22a/1584580817296-GJK9OPDWX4YDBVTR788W/ke17ZwdGBToddI8pDm48kMjqhQA-jX7ac--ga9CFlhJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIR1Ty6Vb8CwQzWPtr4TZTConETMy45e_He0svXfFyhmsKMshLAGzx4R3EDFOm1kBS/taking+a+walk.jpg"
+        },
+        "chudý": {
+            "value": "poor",
+            "img": "https://summitlife.org/wp-content/uploads/2017/08/Helping-the-Poor-Website.jpg"
+        },
+        "chutnat": {
+            "value": "taste",
+            "img": "https://image.shutterstock.com/z/stock-vector-tongue-taste-areas-sweet-bitter-and-salty-tastes-umami-and-sour-taste-receptors-diagram-cartoon-1395341117.jpg"
+        },
+        "chytat": {
+            "value": "to catch",
+            "img": "https://i.pinimg.com/originals/74/05/6d/74056d30d56c99e4e50c1a0cedfec9f3.jpg"
+        }
+    },
+    "j": {
+        "já": {
+            "value": "self",
+            "img": "https://d26a57ydsghvgx.cloudfront.net/content/Blog-image-58-Customer%20loyalty.png"
+        },
+        "jablko": {
+            "value": "apple",
+            "img": "https://i2.wp.com/ceklog.kindel.com/wp-content/uploads/2013/02/firefox_2018-07-10_07-50-11.png"
+        },
+        "jaro": {
+            "value": "Spring",
+            "img": "https://i.ytimg.com/vi/W-eT_EaB-R4/maxresdefault.jpg"
+        },
+        "jazyk": {
+            "value": "tongue",
+            "img": "https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/322/322841/close-up-of-spots-on-tongue.jpg?w=1155&h=1885"
+        },
+        "jed": {
+            "value": "poison",
+            "img": "https://img1.grunge.com/img/gallery/the-most-extreme-poisoning-cases-in-history/intro-1579814835.jpg"
+        },
+        "jeden": {
+            "value": "one",
+            "img": "https://s35691.pcdn.co/wp-content/uploads/2018/09/one-sentence-lesson-plan.jpg"
+        },
+        "jedenáct": {
+            "value": "eleven",
+            "img": "https://i1.wp.com/www.sporcle.com/blog/wp-content/uploads/2017/09/1-25.jpg?resize=1280%2C720&ssl=1"
+        },
+        "jehla": {
+            "value": "needle",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/A_depiction_of_needle.JPG"
+        },
+        "jezero": {
+            "value": "lake",
+            "img": "https://pix10.agoda.net/hotelImages/223/223598/223598_14050508280019302434.jpg?s=1024x768"
+        },
+        "jídlo": {
+            "value": "food",
+            "img": "https://www.kultura-kadan.cz/galerie/1397174.jpg"
+        },
+        "jih": {
+            "value": "south",
+            "img": "https://www.engdict.com/data/dict/media/images_public/south-00067077_normal.jpg"
+        },
+        "jíst": {
+            "value": "eat",
+            "img": "https://www.tmcaz.com/assets/images/blog-images/healthy-living/woman-eating-strawberries-in-kitchen.jpg"
+        },
+        "jít/jet": {
+            "value": "to go",
+            "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ethicalsuperstore.com%2Fblog%2Fwp-content%2Fuploads%2F2009%2F04%2F10-days-to-go.jpg&f=1&nofb=1"
+        },
+        "jízdenka": {
+            "value": "ticket",
+            "img": "https://image.shutterstock.com/image-vector/bus-ticketpublic-transport-side-view-260nw-1175359333.jpg"
+        }
+    },
+    "k": {
+        "kabát": {
+            "value": "coat",
+            "img": "https://www.beige-habilleur.com/7674/ring-jacket-balloon-wool-polo-coat-camel-.jpg"
+        },
+        "kalhoty": {
+            "value": "trousers",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/61FjkEaXTNL._UX466_.jpg"
+        },
+        "kamarád": {
+            "value": "friend",
+            "img": "https://www.talkspace.com/blog/wp-content/uploads/2017/11/losing-best-friend-feature_1320W_JR-1.png"
+        },
+        "kámen": {
+            "value": "stone",
+            "img": "https://miro.medium.com/max/800/1*3X1eYQWyyKAg3r14-rZ2cA.jpeg"
+        },
+        "kamion": {
+            "value": "truck",
+            "img": "https://www.daftrucks.cz/-/media/images/truck-configurator/background/backgroundvisual.jpg?mw=1200&hash=F0D7B9766E63F24BD21C1CF48EC70EF7BF6A1D70"
+        },
+        "kancelář": {
+            "value": "office",
+            "img": "https://iwg-assets.regus.cn/image/upload/Regus/Website/homepage-product-office-space.jpg"
+        },
+        "kapela": {
+            "value": "band",
+            "img": "https://www.brendanmccahey.com/images/headers/hp_01.jpg"
+        },
+        "kapsa": {
+            "value": "pocket",
+            "img": "https://media3.s-nbcnews.com/j/MSNBC/Components/Video/201706/x_tdy_ov_style_jeans_pocket_170628.social_share_1024x768_scale.jpg"
+        },
+        "káva": {
+            "value": "coffee",
+            "img": "https://www.orfeo.coffee/picture/large/202006251529141390240161.jpg"
+        },
+        "kemp": {
+            "value": "cemp",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/13/b8/8a/28/olakira-camp-asilia-africa.jpg"
+        },
+        "kilogram": {
+            "value": "kilogram",
+            "img": "https://cdr.cz/sites/default/files/kg3.jpg"
+        },
+        "klíč": {
+            "value": "key",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Standard-lock-key.jpg/640px-Standard-lock-key.jpg"
+        },
+        "klobouk": {
+            "value": "hat",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/81cEKAcwoKL._AC_UL1500_.jpg"
+        },
+        "klub": {
+            "value": "club",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/13/9f/8d/0d/new-photos-of-one-club.jpg"
+        },
+        "kněz": {
+            "value": "priest",
+            "img": "https://media.npr.org/assets/img/2020/02/12/francis_wide-d795b72b5682e00ba3d22c1697b470b06907454f.jpg"
+        },
+        "kniha": {
+            "value": "book",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/447px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+        },
+        "knihovna": {
+            "value": "library",
+            "img": "https://i.pinimg.com/originals/35/25/b1/3525b19d1c4f34820365299eb9cd1904.jpg"
+        },
+        "kočka": {
+            "value": "cat",
+            "img": "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png"
+        },
+        "koleno": {
+            "value": "knee",
+            "img": "https://media.bizj.us/view/img/11513267/mayo-clinic-knee*1024xx6720-3787-0-358.jpg"
+        },
+        "kolo (jízdní)": {
+            "value": "bicycle",
+            "img": "https://www.kolotipy.cz/wp-content/uploads/2020/08/1600-900-pexels-man-in-black-suit-riding-bicycle-down-the-street-1843752-pexels-andrea-piacquadio-1843752.jpg"
+        },
+        "kopat (jámu)": {
+            "value": "to dig",
+            "img": "https://home.bt.com/images/digging-in-the-garden-how-to-do-it-safely-and-avoid-injury-136424224932503901-180109170717.jpg"
+        },
+        "kopec": {
+            "value": "hill",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/SilburyHill_gobeirne.jpg"
+        },
+        "kořen": {
+            "value": "root",
+            "img": "https://www.gardeningknowhow.com/wp-content/uploads/2020/03/roots.jpg"
+        },
+        "kost": {
+            "value": "bone",
+            "img": "https://cdn.shopify.com/s/files/1/2957/5936/products/Large-Bone_751080e4-183d-4d80-ab98-03c823c9092e_2000x.png?v=1592509789"
+        },
+        "kostel": {
+            "value": "church",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/0d/53/a8/a8/st-marys-catholic-church.jpg"
+        },
+        "košile": {
+            "value": "shirt",
+            "img": "https://contents.mediadecathlon.com/p1484240/k$ab565f3675dbdd7e3c486175e2c16583/travel-100-men-s-trekking-shirt-maroon.jpg?&f=452x452"
+        },
+        "koupelna": {
+            "value": "bathroom",
+            "img": "https://images.victoriaplum.com/blog/blogpost-covers/8263637c-99ce-4601-9c55-b758b088033a.jpg?auto=format%2Ccompress&q=55"
+        },
+        "kousek": {
+            "value": "a bit",
+            "img": "https://www.tekportal.net/wp-content/uploads/2019/01/a-bit-2.jpg"
+        },
+        "kov": {
+            "value": "metal",
+            "img": "https://egoist-parfums.cz/wp-content/uploads/2019/11/Metal.jpg"
+        },
+        "krabice": {
+            "value": "box",
+            "img": "https://images.uline.com/is/image/content/dam/images/S/S4500/S-4080.jpg?$Mobile_SI$&iccEmbed=1&icc=AdobeRGB"
+        },
+        "král": {
+            "value": "king",
+            "img": "https://image.freepik.com/free-vector/king-head-vector-logo-icon_43623-454.jpg"
+        },
+        "královna": {
+            "value": "queen",
+            "img": "https://i.pinimg.com/550x/71/b0/e5/71b0e527bdb78b1e2e2ccd690eae18ed.jpg"
+        },
+        "krásný": {
+            "value": "beautiful",
+            "img": "https://i.pinimg.com/474x/ac/65/7a/ac657a4aec5b3069140488921a60d9f6.jpg"
+        },
+        "krátký": {
+            "value": "short",
+            "img": "https://www.thepaws.co.uk/s2g/paws/rope_bone.jpg"
+        },
+        "kráva": {
+            "value": "cow",
+            "img": "https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg"
+        },
+        "kreslit": {
+            "value": "draw",
+            "img": "https://i.ytimg.com/vi/Q_PZ09Qlssw/maxresdefault.jpg"
+        },
+        "krev": {
+            "value": "blood",
+            "img": "https://physicsworld.com/wp-content/uploads/2019/10/PWOct19_blood-spatter_HERO.jpg"
+        },
+        "krk": {
+            "value": "neck",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Neck.png/250px-Neck.png"
+        },
+        "krmit": {
+            "value": "feed",
+            "img": "https://www.bentoli.com/wp-content/uploads/2017/04/ChickenFeedIngredients.jpg"
+        },
+        "kruh": {
+            "value": "circle",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Circle_-_black_simple.svg/1200px-Circle_-_black_simple.svg.png"
+        },
+        "křídlo": {
+            "value": "wing",
+            "img": "https://cdn.pixabay.com/photo/2020/03/09/18/29/wing-4916717_960_720.png"
+        },
+        "kuchyně": {
+            "value": "kitchen",
+            "img": "https://www.ikea.com/images/58/03/5803ef752cba3fda68fb73083addd994.jpg?f=s"
+        },
+        "kukuřice": {
+            "value": "maize",
+            "img": "https://www.mccormick.it/wp-content/uploads/2020/05/dati-aggiornati-sulla-produzione-di-mais-nel-mondo-853x480.jpg"
+        },
+        "kůň": {
+            "value": "horse",
+            "img": "https://i.pinimg.com/originals/71/58/18/7158185269fd39ae2e905f5bd28ed5b7.jpg"
+        },
+        "kupovat": {
+            "value": "buy",
+            "img": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/03/27/104366715-GettyImages-74781362.1910x1000.jpg"
+        },
+        "kuřecí (maso)": {
+            "value": "chicken",
+            "img": "https://static01.nyt.com/images/2020/05/01/science/01TB-CHICKEN/01TB-CHICKEN-videoSixteenByNineJumbo1600.jpg"
+        },
+        "kůže": {
+            "value": "skin",
+            "img": "https://www.binghamton.edu/news/images/uploads/features/_normal/human-skin.jpg"
+        },
+        "květen": {
+            "value": "May",
+            "img": "https://pumpsandiron.com/wp-content/uploads/2015/05/favorite-things-may.png"
+        },
+        "květina": {
+            "value": "flower",
+            "img": "https://www.thoughtco.com/thmb/mik7Z00SAYN786BQbieXWOzZmc8=/2121x1414/filters:fill(auto,1)/lotus-flower-828457262-5c6334b646e0fb0001dcd75a.jpg"
+        }
+    },
+    "l": {
+        "láhev": {
+            "value": "bottle",
+            "img": "https://glassbottles.co.uk/wp-content/uploads/2013/06/1000ml-Clear-Mountain-Bottle.jpg"
+        },
+        "lampa": {
+            "value": "lamp",
+            "img": "https://m.media-amazon.com/images/I/61Ckk6bdzwL._AC_SS350_.jpg"
+        },
+        "led": {
+            "value": "ice",
+            "img": "https://i2.wp.com/www.sugarspunrun.com/wp-content/uploads/2019/03/How-to-make-Ice-1-of-1-4.jpg"
+        },
+        "leden": {
+            "value": "January",
+            "img": "https://i0.wp.com/www.ginorthwest.org/wp-content/uploads/2020/01/941e6a987bab6cf2b716ba71b398dbcb-hello-pictures-hello-january1.jpg?fit=736%2C736&ssl=1"
+        },
+        "lehký (o váze)": {
+            "value": "light",
+            "img": "https://thumbs.dreamstime.com/z/asian-strong-man-hold-light-weight-dumbbell-his-finger-isolated-white-background-41343740.jpg"
+        },
+        "lék": {
+            "value": "medicine",
+            "img": "https://i.guim.co.uk/img/media/20491572b80293361199ca2fc95e49dfd85e1f42/0_236_5157_3094/master/5157.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=80ea7ebecd3f10fe721bd781e02184c3"
+        },
+        "lékař": {
+            "value": "doctor",
+            "img": "https://www.cdc.gov/diabetes/images/library/spotlights/Male-doctor-smiling-portrait-close-up-Med-Res-72991363.jpg"
+        },
+        "les": {
+            "value": "forest",
+            "img": "https://www.tapety-folie.cz/fotocache/bigorig/WIZARD/216.jpg"
+        },
+        "letadlo": {
+            "value": "airplane",
+            "img": "https://miro.medium.com/max/6054/0*kp8rJzqHjagMj22J"
+        },
+        "letět": {
+            "value": "fly",
+            "img": "https://i.ytimg.com/vi/ZvgxR0Rt_us/maxresdefault.jpg"
+        },
+        "letiště": {
+            "value": "airport",
+            "img": "https://airport-world.com/wp-content/uploads/2020/05/MG_3038editada-scaled.jpg"
+        },
+        "léto": {
+            "value": "summer",
+            "img": "https://thechurch.es/wp-content/uploads/2020/06/Summer.jpg"
+        },
+        "levný": {
+            "value": "cheap",
+            "img": "https://ironfuss.com/wp-content/uploads/2019/02/cheap.png"
+        },
+        "ležet": {
+            "value": "lie down",
+            "img": "https://thumbs.dreamstime.com/b/man-laying-grass-happy-relaxed-61747481.jpg"
+        },
+        "líbat": {
+            "value": "kiss",
+            "img": "https://ychef.files.bbci.co.uk/624x351/p02wz7mw.jpg"
+        },
+        "libra": {
+            "value": "pound",
+            "img": "https://media.npr.org/assets/img/2019/08/28/gettyimages-603974050_wide-996b97c32026ef3dad43ded75c38115ce5e1d924.jpg"
+        },
+        "list": {
+            "value": "leaf",
+            "img": "https://www.collinsdictionary.com/images/full/leaf_198990134.jpg"
+        },
+        "listopad": {
+            "value": "November",
+            "img": "https://i2.wp.com/www.dailycal.org/assets/uploads/2019/10/november_pixabay_cc-1-900x580.jpg"
+        },
+        "loď": {
+            "value": "ship",
+            "img": "https://image.cnbcfm.com/api/v1/image/106042801-1564151441390cruiseshot.png?v=1564168367"
+        },
+        "ložnice": {
+            "value": "bedroom",
+            "img": "https://www.bocadolobo.com/en/inspiration-and-ideas/wp-content/uploads/2018/03/Discover-the-Ultimate-Master-Bedroom-Styles-and-Inspirations-6_1.jpg"
+        },
+        "lžíce": {
+            "value": "spoon",
+            "img": "https://www.thoughtco.com/thmb/bXfXbRm5PbnIRIHhXDlCa7fWAJA=/2121x1193/smart/filters:no_upscale()/GettyImages-1097037546-35e5377d07704fa69c8ce93833b7afdd.jpg"
+        }
+    },
+    "m": {
+        "malý (o člověku)": {
+            "value": "small",
+            "img": "https://media.gettyimages.com/photos/very-big-and-very-small-concept-picture-id1195515928?s=612x612"
+        },
+        "malý/drobný": {
+            "value": "small",
+            "img": "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/small_building.jpg?itok=L7Bkyy0O"
+        },
+        "manažer": {
+            "value": "manager",
+            "img": "https://res.cloudinary.com/dg5ir1kvd/image/fetch/f_auto,fl_advanced_resize%2Cc_limit%2Cw_767/https://www.ccu.edu/blogs/cags/uploads/2017/06/shutterstock_551937655.jpg%3Fv%3D1598374491185"
+        },
+        "manžel": {
+            "value": "husband",
+            "img": "https://miro.medium.com/max/12268/1*37VWMjvbiyJgVK5te7FrVA.jpeg"
+        },
+        "manželka": {
+            "value": "wife",
+            "img": "https://4eqj0e1z8b4d1znsdqg76wl1-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Husband-serenading-his-wife-634x470.jpg"
+        },
+        "manželství": {
+            "value": "marriage",
+            "img": "https://advice.cdn.betterhelp.com/cro-marriage-statistics-do-marriages-really-last-1.jpg"
+        },
+        "mapa": {
+            "value": "map",
+            "img": "https://gisportal.cz/wp-content/uploads/2018/06/Streets-map-CZ.png"
+        },
+        "materiál": {
+            "value": "material",
+            "img": "https://img.freepik.com/free-vector/building-material-heaps-set_74855-938.jpg?size=626&ext=jpg&ga=GA1.2.359966942.1610236800"
+        },
+        "matka": {
+            "value": "mother",
+            "img": "https://i.dailymail.co.uk/i/pix/2017/06/13/16/41649C3100000578-0-image-a-6_1497369159479.jpg"
+        },
+        "měď": {
+            "value": "copper",
+            "img": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/288165_2200-1200x628.jpg"
+        },
+        "měkký": {
+            "value": "soft",
+            "img": "https://daily.wordreference.com/wp-content/uploads/2018/06/soft.jpg"
+        },
+        "mělký": {
+            "value": "shallow",
+            "img": "https://thumbs.dreamstime.com/z/educational-english-flash-card-antonyms-flat-vector-template-childish-memo-cards-language-learning-concept-educational-181371056.jpg"
+        },
+        "měsíc (např. leden)": {
+            "value": "month",
+            "img": "https://www.englishclub.com/images/vocabulary/months.png"
+        },
+        "měsíc (vs. slunce)": {
+            "value": "moon",
+            "img": "https://post.healthline.com/wp-content/uploads/2020/08/full-moon-night-landscape-732x549-thumbnail-1.jpg"
+        },
+        "město": {
+            "value": "city",
+            "img": "https://pix10.agoda.net/hotelImages/3375/-1/f73547b49eadee36c6346f52a5b4f4fe.jpg?s=1024x768"
+        },
+        "metr (jednotka)": {
+            "value": "meter",
+            "img": "https://study.com/cimages/videopreview/videopreview-full/screen_shot_2015-06-18_at_10.48.05_pm_170339.jpg"
+        },
+        "míč": {
+            "value": "ball",
+            "img": "https://m.media-amazon.com/images/I/61IkrxQ9p8L._AC_SL1500_.jpg"
+        },
+        "míchat": {
+            "value": "stir",
+            "img": "https://www.bbcgoodfoodme.com/assets/legacy/recipe_images/recipe-image-legacy-id--1358_11.jpg"
+        },
+        "miliarda": {
+            "value": "billion",
+            "img": "https://blog.lamresearch.com/wp-content/uploads/2015/09/Billion_Square.jpg"
+        },
+        "milion": {
+            "value": "million",
+            "img": "https://csbets.org/blog/wp-content/uploads/2016/09/1-million.png"
+        },
+        "milovat": {
+            "value": "love",
+            "img": "https://data.pixiz.com/output/user/frame/preview/api/big/9/9/8/0/3490899_8983e.jpg"
+        },
+        "miminko": {
+            "value": "baby",
+            "img": "https://plunket-prod-public.s3.ap-southeast-2.amazonaws.com/public/page-header/baby-lying-on-pink-bed-1556706-v2__FillMaxWzU0NCwzMjhd.jpg"
+        },
+        "minuta": {
+            "value": "minute",
+            "img": "https://image.shutterstock.com/image-vector/one-minute-icon-symbol-product-260nw-1544346155.jpg"
+        },
+        "mír": {
+            "value": "peace",
+            "img": "https://m.media-amazon.com/images/I/91cI-eXxQaL._SS500_.jpg"
+        },
+        "místo": {
+            "value": "place",
+            "img": "https://vtdesignz.com/wp-content/uploads/2016/06/Google-Place-Marketing-image-31-5-17.jpg"
+        },
+        "mladý": {
+            "value": "young",
+            "img": "https://thumbs.dreamstime.com/z/portrait-young-model-2468405.jpg"
+        },
+        "mléko": {
+            "value": "milk",
+            "img": "https://chriskresser.com/wp-content/uploads/raw-milk-1-e1563894986431.jpg"
+        },
+        "mluvit/říct": {
+            "value": "speak",
+            "img": "https://cotoacademy.com/wp-content/uploads/2018/02/exposuretolanguage.jpeg"
+        },
+        "mobilní telefon": {
+            "value": "mobile phone",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/71yXShgxvpL._SX425_.jpg"
+        },
+        "modlit se": {
+            "value": "pray",
+            "img": "https://media.swncdn.com/cms/CW/faith/66472-woman-praying-sunset-gettyimages-antonioguill.1200w.tn.jpg"
+        },
+        "modrý": {
+            "value": "blue",
+            "img": "https://s3.amazonaws.com/amacobrent/spree/products/attachments/6092/xlarge/tp24-medium-blue-square-2048px.jpg?1419288078"
+        },
+        "mokrý": {
+            "value": "wet",
+            "img": "https://bitesizebio.com/wp-content/uploads/2019/12/dry-vs-Wet.jpg"
+        },
+        "moře": {
+            "value": "ocean",
+            "img": "https://assets.newatlas.com/dims4/default/5ab0e1a/2147483647/strip/true/crop/1999x1328+0+0/resize/1440x957!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ffe%2F06%2F75f2c8704c71ade9c8881c997c8f%2Fdepositphotos-41105113-l-2015.jpg"
+        },
+        "most": {
+            "value": "bridge",
+            "img": "https://media.mehrnews.com/d/2020/01/27/4/3362982.jpg"
+        },
+        "motor": {
+            "value": "engine",
+            "img": "https://car-images.bauersecure.com/pagefiles/87905/ingenium-diesel-six.jpg"
+        },
+        "mozek": {
+            "value": "brain",
+            "img": "https://www.medicalnewstoday.com/content/images/articles/324/324998/vintage-illustration-of-a-brain.jpg"
+        },
+        "mrtvý": {
+            "value": "dead",
+            "img": "https://keralakaumudi.com/web-news/en/2020/11/NMAN0192759/image/dead-.1.836073.jpg"
+        },
+        "muž": {
+            "value": "man",
+            "img": "https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1920-q80/marquee/11/77/27/6/hero_landscape_91e1b039-11ef-4d97-a01e-639b6ee4990a.jpg"
+        },
+        "mužský": {
+            "value": "male",
+            "img": "https://www.publicdomainpictures.net/pictures/20000/velka/symbol-of-male.jpg"
+        },
+        "my": {
+            "value": "we",
+            "img": "https://img.cncenter.cz/img/3/article/6297331_v0.jpg?v=0"
+        },
+        "mýdlo": {
+            "value": "soap",
+            "img": "https://cdn11.bigcommerce.com/s-oehg4oj/images/stencil/2048x2048/products/329/1809/12276__15905.1452010761.jpg?c=2"
+        },
+        "myslet": {
+            "value": "to think",
+            "img": "https://www.prettislim.com/wp-content/uploads/2015/04/think-like-a-thin-person.jpg"
+        },
+        "myš": {
+            "value": "mouse",
+            "img": "https://ualr.edu/researchcompliance/files/2017/01/Mouse-Tales-Neuroscientists-Work-on-Virtual-Reality-System-Using-Mice-Whiskers.jpg"
+        },
+        "mýt": {
+            "value": "wash",
+            "img": "https://www.initial.com/blog/wp-content/uploads/2020/04/9-steps-to-handwashing.jpg"
+        }
+    },
+    "n": {
+        "náboženství": {
+            "value": "religion",
+            "img": "https://www.rifemagazine.co.uk/wp-content/uploads/2017/11/2017_0112_Euella_Religion.png"
+        },
+        "nádraží": {
+            "value": "station",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/D3607_CRH2A_EMU_at_Foshan_West_Railway_Station.jpg"
+        },
+        "nahoru": {
+            "value": "up",
+            "img": "https://bibalex.org/SCIplanet/Attachments/Article/MediumImage/eFxhs0tR38_20180717090549249.jpg"
+        },
+        "nahoře": {
+            "value": "above",
+            "img": "https://image.shutterstock.com/z/stock-vector-opposite-below-and-above-vector-illustration-1432712513.jpg"
+        },
+        "najít": {
+            "value": "find",
+            "img": "https://media.jamf.com/images/news/how-to-find-remaining-32-bit-applications-on-macos.jpg?q=80&w=800"
+        },
+        "nápoj": {
+            "value": "drink",
+            "img": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/306638_2200-1200x628.jpg"
+        },
+        "následovat": {
+            "value": "follow",
+            "img": "https://corporatebytes.in/wp-content/uploads/2016/11/leader.jpg"
+        },
+        "nástroj (pomůcka)": {
+            "value": "tool",
+            "img": "https://m.media-amazon.com/images/I/51XIfEgP0LL._AC_SS350_.jpg"
+        },
+        "nástroj (hudební)": {
+            "value": "instrument",
+            "img": "https://www.vpl.ca/sites/vpl/public/styles/instrument/public/instrument-bass-guitar-grey.jpg?itok=Z7EkQs0V"
+        },
+        "ne": {
+            "value": "no",
+            "img": "https://en.pimg.jp/058/014/905/1/58014905.jpg"
+        },
+        "nebe (vs. země)": {
+            "value": "sky",
+            "img": "https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/cumulus-cloud.jpg"
+        },
+        "nebe (vs. peklo)": {
+            "value": "heaven",
+            "img": "https://media.istockphoto.com/photos/heaven-and-hell-religious-choice-picture-id1225837096?k=6&m=1225837096&s=612x612&w=0&h=JKmEap_GDSFfeb-GQpQCzuKhFIgIbWOtnxRs7lTAAiY="
+        },
+        "neděle": {
+            "value": "Sunday",
+            "img": "https://c.tadst.com/gfx/1200x630/sunrise.png"
+        },
+        "nemoc": {
+            "value": "disease",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3_35QS_Pb8LI_u8YqQV51cKn_Qji607FQmg&usqp=CAU"
+        },
+        "nemocnice": {
+            "value": "hospital",
+            "img": "https://www.healthindustryhub.com.au/wp-content/uploads/2019/08/Hospitals.jpg"
+        },
+        "nemocný": {
+            "value": "sick",
+            "img": "https://hnc.org.au/wp-content/uploads/2018/06/sick-girl.png"
+        },
+        "nést": {
+            "value": "carry",
+            "img": "https://static.wikia.nocookie.net/fallout/images/0/01/CarryWeight.png/revision/latest?cb=20160505215742"
+        },
+        "nízký (ne o člověku)": {
+            "value": "low",
+            "img": "https://m.media-amazon.com/images/I/81x1EUvprWL._SS500_.jpg"
+        },
+        "noc": {
+            "value": "night",
+            "img": "https://blog.dana-farber.org/insight/wp-content/uploads/2016/09/NIght-Scene-with-Moon.jpg"
+        },
+        "noha": {
+            "value": "leg",
+            "img": "https://image.shutterstock.com/image-photo/muscular-male-leg-isolated-on-260nw-640417504.jpg"
+        },
+        "nos": {
+            "value": "nose",
+            "img": "https://i-cf5.gskstatic.com/content/dam/cf-consumer-healthcare/bp-advil/en_US_respiratory/article/article-listing/howwelldoyouknowyournose.jpg?auto=format"
+        },
+        "notebook": {
+            "value": "notebook",
+            "img": "https://zdnet1.cbsistatic.com/hub/i/2019/01/31/8ab86bb7-3b72-4dc2-9acf-771b9e1c1806/system76-darter-pro-linux-laptop-notebook-ubuntu.jpg"
+        },
+        "novinář": {
+            "value": "journalist",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Reporter_from_CN8_at_the_Petco_gas_explosion_20050304.jpg"
+        },
+        "noviny": {
+            "value": "newspaper",
+            "img": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2020-04/ap_paper.jpg?itok=pevRrI3j"
+        },
+        "nový": {
+            "value": "new",
+            "img": "https://st1.latestly.com/wp-content/uploads/2020/12/6-Happy-New-Year.jpg"
+        },
+        "nukleární": {
+            "value": "nuclear",
+            "img": "https://www.researchgate.net/profile/Dariusz_Prokopowicz/post/Does_nuclear_power_have_a_future_or_will_new_technologies_of_renewable_energy_be_developed_in_the_energy_sector/attachment/5c1d1366cfe4a764550a9a5e/AS%3A706312295960576%401545409382240/image/nuclear+energy+28.jpg"
+        },
+        "nula":  {
+            "value": "zero",
+            "img": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/03/07/Foreign/Images/0307_IndiaZero_SS.jpg?t=20170517"
+        },
+        "nůž": {
+            "value": "knife",
+            "img": "https://images.crateandbarrel.com/is/image/Crate/Classic8inChefsKnifeSHF16"
+        }
+    },
+    "o": {
+        "obec (menší město)": {
+            "value": "village",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Holl%C3%B3k%C5%91_%C3%93falu_F%C5%91_utca_(r%C3%A9szlet).jpg"
+        },
+        "oběd": {
+            "value": "lunch",
+            "img": "https://i.ytimg.com/vi/TiNtS6wrgsk/maxresdefault.jpg"
+        },
+        "oběť": {
+            "value": "sacrifice",
+            "img": "http://www.heritagedaily.com/wp-content/uploads/2016/04/SAC1.jpg"
+        },
+        "obchod (kamenný)": {
+            "value": "shop",
+            "img": "https://blogs-images.forbes.com/fionabriggs/files/2016/06/Lush_Bluewater_Shop-1200x675.jpg"
+        },
+        "oblečení": {
+            "value": "clothes",
+            "img": "https://www.moneycrashers.com/wp-content/uploads/2019/02/buy-sustainable-ecofriendly-clothes.jpg"
+        },
+        "oblek": {
+            "value": "suit",
+            "img": "https://www.fashionsuitoutlet.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/1/4/1477615805.jpg.jpg"
+        },
+        "oblékat": {
+            "value": "get dressed",
+            "img": "http://media.gettyimages.com/photos/woman-getting-dressed-picture-id122604257?s=170667a"
+        },
+        "obličej": {
+            "value": "face",
+            "img": "http://wallup.net/wp-content/uploads/2016/03/01/309071-monochrome-women-face.jpg"
+        },
+        "oblý/křivý": {
+            "value": "rounded",
+            "img": "https://i1.wp.com/www.photoshopsupply.com/wp-content/uploads/2019/06/rounded-triangle.jpg?w=1140&ssl=1"
+        },
+        "obrázek": {
+            "value": "picture",
+            "img": "https://www.pixelstalk.net/wp-content/uploads/2016/08/Download-Free-Weird-Picture.jpg"
+        },
+        "obrazovka": {
+            "value": "screen",
+            "img": "https://extraupdate.com/wp-content/uploads/2017/08/9009957-computer-screen-isolated-on-white-stock-photo-monitor-2.jpg"
+        },
+        "oceán": {
+            "value": "ocean",
+            "img": "https://davidsuzuki.org/wp-content/uploads/2018/11/ocean-warming.jpg"
+        },
+        "odpoledne": {
+            "value": "afternoon",
+            "img": "https://i0.wp.com/ilovetextmessage.com/wp-content/uploads/2018/01/Good-Afternoon-Love-Quotes-For-Him-And-Her.jpg?ssl=1"
+        },
+        "oheň": {
+            "value": "fire",
+            "img": "http://www.jpl.nasa.gov/images/earth/fire/20150409/wildfire1.jpg"
+        },
+        "ohýbat": {
+            "value": "inflect",
+            "img": "http://www.refresher.com/ceo/wp-content/uploads/2014/12/inflect.gif"
+        },
+        "okno": {
+            "value": "window",
+            "img": "https://www.designingbuildings.co.uk/w/images/4/40/Stationarywindow.jpg"
+        },
+        "oko": {
+            "value": "eye",
+            "img": "https://i.ytimg.com/vi/BTmNLd-k5Rs/maxresdefault.jpg"
+        },
+        "olej": {
+            "value": "oil",
+            "img": "https://www.healthline.com/hlcmsresource/images/AN_images/is-canola-oil-healthy-1200x628-facebook.jpg"
+        },
+        "on/ona/ono": {
+            "value": "he/she/it",
+            "img": "http://3.bp.blogspot.com/-X-iYEemIMUc/UjrDARRP_rI/AAAAAAAAFAA/SmLruvBYKU8/w1200-h630-p-k-no-nu/he+she+it.png"
+        },
+        "oni/ony/ona": {
+            "value": "they/they/she",
+            "img": "http://crazyspeechworld.com/wp-content/uploads/2012/12/train71.png"
+        },
+        "oranžový": {
+            "value": "orange",
+            "img": "http://weknowyourdreams.com/images/orange-color/orange-color-01.jpg"
+        },
+        "osm": {
+            "value": "eight",
+            "img": "https://dejpknyizje2n.cloudfront.net/marketplace/products/tie-dye-number-eight-sticker-1540843376.4011838.png"
+        },
+        "osmdesát": {
+            "value": "eighty",
+            "img": "https://comps.canstockphoto.com/number-eighty-drawings_csp53990130.jpg"
+        },
+        "osmnáct": {
+            "value": "eighteen",
+            "img": "http://www.drodd.com/images15/18-12.png"
+        },
+        "osoba": {
+            "value": "person",
+            "img": "https://assets.entrepreneur.com/content/16x9/822/1392752611-take-page-from-rock-refer-yourself-third-person.jpg"
+        },
+        "ostrov": {
+            "value": "island",
+            "img": "https://better.net/wp-content/uploads/2019/11/Maldives-Arial-view-of-Kudadoo-Private-Island.jpg"
+        },
+        "ošklivý": {
+            "value": "ugly",
+            "img": "http://www.fotolip.com/wp-content/uploads/2016/06/ugly-people-1.jpg"
+        },
+        "otáčet": {
+            "value": "rotate",
+            "img": "https://cdn4.iconfinder.com/data/icons/paint-soft/512/arrow_refresh_business_group_web_application_rotate-512.png"
+        },
+        "otec": {
+            "value": "father",
+            "img": "http://weknowyourdreams.com/images/father/father-09.jpg"
+        },
+        "otevřít": {
+            "value": "open",
+            "img": "http://bitcoinist.com/wp-content/uploads/2018/06/dp-open-door.jpg"
+        }
+    },
+    "p": {
+        "pacient": {
+            "value": "patient",
+            "img": "https://news.virginia.edu/sites/default/files/article_image/doctor_patient_header_3-2.jpg"
+        },
+        "padat": {
+            "value": "drop",
+            "img": "https://www.digitalmarketer.com/wp-content/uploads/2020/05/what-is-drop-servicing.png"
+        },
+        "padesát": {
+            "value": "fifty",
+            "img": "http://www.gregverdino.com/wp-content/uploads/2015/04/number-50.jpg"
+        },
+        "palec": {
+            "value": "thumb",
+            "img": "https://sportsorthopaedics.com.sg/wp-content/uploads/2014/05/news-23.jpg"
+        },
+        "papír": {
+            "value": "paper",
+            "img": "https://www.dadsworksheets.com/worksheets/handwriting-paper/lined-three-eighths-inch-template-v1.jpg"
+        },
+        "park": {
+            "value": "park",
+            "img": "http://neworleanscitypark.com/images/content/cache/made/images/content/site/Lelong_(CP)__1200_570_c1.jpg"
+        },
+        "pátek": {
+            "value": "Friday",
+            "img": "https://www.yourselfquotes.com/wp-content/uploads/2017/11/Friday-Quotes.jpg"
+        },
+        "patnáct": {
+            "value": "fifteen",
+            "img": "http://cdn.innovativelanguage.com/wordlists/media/thumb/9228_fit512.jpg"
+        },
+        "pátý": {
+            "value": "fifth",
+            "img": "http://www.clipartkid.com/images/788/google-5th-safe-on-safe-off-ogp1rB-clipart.jpg"
+        },
+        "paže": {
+            "value": "arm",
+            "img": "http://www.batsfinder.com/wp-content/uploads/2016/07/arm-strength-muscle.jpg"
+        },
+        "peklo": {
+            "value": "hell",
+            "img": "http://dreamicus.com/data/hell/hell-03.jpg"
+        },
+        "peníze": {
+            "value": "money",
+            "img": "https://i.ytimg.com/vi/JEzqoRCgD5Q/maxresdefault.jpg"
+        },
+        "pero (psací potřeba)": {
+            "value": "pen",
+            "img": "https://images5.qualitylogoproducts.com/custom-pens/premium-pen-stylus-tip-superextralarge-238958.jpg"
+        },
+        "pes": {
+            "value": "dog",
+            "img": "https://www.townofsweden.org/static/sitefiles/departments/dog.jpg"
+        },
+        "pět (5)": {
+            "value": "five",
+            "img": "https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Numbers/Yellow_Five_PNG_Clipart.png?m=1573201184"
+        },
+        "písek": {
+            "value": "sand",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Waves_sand_shadows.JPG/1200px-Waves_sand_shadows.JPG"
+        },
+        "píseň": {
+            "value": "song",
+            "img": "https://www.phoenixfm.com/wp-content/uploads/2019/10/song.png"
+        },
+        "pít": {
+            "value": "drink",
+            "img": "https://www.amiblu.com/wp-content/uploads/2017/12/girl-drinking-water.jpg"
+        },
+        "pivo": {
+            "value": "beer",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bitburger_Glass.JPG/1200px-Bitburger_Glass.JPG"
+        },
+        "plakat": {
+            "value": "cry",
+            "img": "https://media.istockphoto.com/photos/depressed-beautiful-girl-cry-picture-id471914697?k=6&m=471914697&s=170667a&w=0&h=HGW8sGWRGGKIAUelSk2qlqMnE_Avtb8ajBaFfihACSY="
+        },
+        "plast": {
+            "value": "plastic",
+            "img": "http://www.aandapackaging.co.uk/wp-content/uploads/2016/10/Plastic-Bottles.jpg"
+        },
+        "platit": {
+            "value": "pay",
+            "img": "https://www.lacare.org/sites/default/files/images/PayPremiumsWithCash.jpg"
+        },
+        "plavat": {
+            "value": "swim",
+            "img": "https://www.coachray.nz/wp-content/uploads/2019/05/May-18.jpg"
+        },
+        "pláž": {
+            "value": "beach",
+            "img": "http://www.caribbeanlifenews.com/assets/photos/2019/7/2019-07-26-sub-grand-anse-beach-cl01_s.jpg"
+        },
+        "plochý/rovný": {
+            "value": "flat/straight",
+            "img": "https://ae01.alicdn.com/kf/HTB1NULCLpXXXXcMXFXXq6xXFXXXm/Flat-straight-furniture-connector-plate-board-steel-corner-bracket-home-chair-cupboard-hardware-fastener-door-wood.jpg"
+        },
+        "pneumatika": {
+            "value": "tire",
+            "img": "http://www.chinakebektire.com/wp-content/uploads/06S.jpg"
+        },
+        "počítač": {
+            "value": "computer",
+            "img": "https://comtechome.files.wordpress.com/2011/06/desktop-pc.jpg"
+        },
+        "počítat": {
+            "value": "calculate",
+            "img": "http://www.wikihow.com/images/7/7f/Calculate-Weighted-Average-Step-13.jpg"
+        },
+        "podepsat": {
+            "value": "undersign",
+            "img": "https://st2.depositphotos.com/3921439/7824/v/950/depositphotos_78246724-stock-illustration-the-signature-icon-pen-and.jpg"
+        },
+        "podlaha": {
+            "value": "floor",
+            "img": "https://floorcoverings-intl.com/wp-content/gallery/pictures-laminate-flooring/Photo-Mar-21-4-46-02-PM.jpg"
+        },
+        "podstatné jméno": {
+            "value": "noun",
+            "img": "https://fthmb.tqn.com/ku_91igBD3SftBLs25A4CcNNFHU=/1054x1651/filters:fill(auto,1)/getty_noun-173337696-56af9be15f9b58b7d01b0749.jpg"
+        },
+        "podzim": {
+            "value": "autumn",
+            "img": "https://d34ip4tojxno3w.cloudfront.net/wp-content/uploads/Header_Linnunlaulu_ruska_autumn.jpg"
+        },
+        "pohlaví": {
+            "value": "sex",
+            "img": "https://img.cncenter.cz/img/3/article/5446294_pohlavi-gender-zena-muz-symboly-v1.jpg?v=1"
+        },
+        "pokoj": {
+            "value": "room",
+            "img": "https://www.ucl.ac.uk/accommodation/sites/accommodation/files/styles/owl_carousel/public/beaumont_court_ensuite_room.jpg?itok=EgUcmoM2"
+        },
+        "polévka": {
+            "value": "soup",
+            "img": "https://www.thegraciouspantry.com/wp-content/uploads/2018/08/clean-eating-pressure-cooker-tomato-soup-recipe-v-1-.jpg"
+        },
+        "police": {
+            "value": "shelf",
+            "img": "https://www.rockler.com/media/catalog/product/cache/49dcd5d85f0fa4d590e132d0368d8132/4/9/49157-02-1000.jpg"
+        },
+        "pomalý": {
+            "value": "slow",
+            "img": "https://cdn.zodiacfire.com/wp-content/uploads/2016/01/slow-snails-pace.jpg"
+        },
+        "pomeranč": {
+            "value": "orange",
+            "img": "https://mealstudio.com/wp-content/uploads/2019/10/Orange-1.jpg"
+        },
+        "pondělí": {
+            "value": "monday",
+            "img": "https://www.wishesmsg.com/wp-content/uploads/Monday-Motivational-Messages.jpg"
+        },
+        "poslouchat (hudbu)": {
+            "value": "listen to music",
+            "img": "https://steemitimages.com/DQmRxDDhTJEi4ej1bHeVkUVdPYuEpBVgH5y1fYxyjEyZfbh/29.-Audiology-Headphones%20(1).jpg"
+        },
+        "postel": {
+            "value": "bed",
+            "img": "https://www.robinsonsbeds.co.uk/images/blog/records/medium/1456397849Richmond%20bespoke%20Bed%20resized%207292.jpg"
+        },
+        "pot": {
+            "value": "sweat",
+            "img": "https://cdn.cnn.com/cnnnext/dam/assets/160107173306-sweat-forehead-super-tease.jpg"
+        },
+        "povolání (profese)": {
+            "value": "occupation",
+            "img": "https://thumbs.dreamstime.com/z/occupation-icons-13966819.jpg"
+        },
+        "pracovat": {
+            "value": "work",
+            "img": "https://ak3.picdn.net/shutterstock/videos/30236143/thumb/1.jpg"
+        },
+        "prach": {
+            "value": "dust",
+            "img": "https://article.images.consumerreports.org/prod/content/dam/cro/news_articles/health/CR-Health-Hero-Harmful-chemicals-present-in-household-dust-09-16"
+        },
+        "prase": {
+            "value": "pig",
+            "img": "https://www.agric.wa.gov.au/sites/gateway/files/P15_7499%20Pig%20in%20straw%20shelter%20(A1833551).jpg"
+        },
+        "právník": {
+            "value": "lawyer",
+            "img": "https://i.ytimg.com/vi/vYDw5JPwO74/hqdefault.jpg"
+        },
+        "prezident": {
+            "value": "president",
+            "img": "https://cdn1.img.sputniknews.com/img/101504/29/1015042968_0:153:3840:2227_1000x541_80_0_0_b54d7859f36ddd3da07bca953502d0ab.jpg"
+        },
+        "probudit (/se)": {
+            "value": "wake up",
+            "img": "https://static.parade.com/wp-content/uploads/2017/09/morning-wake-up-ftr.jpg"
+        },
+        "prodávat": {
+            "value": "sell",
+            "img": "https://www.newbreedmarketing.com/hs-fs/hubfs/11%20ways%20to%20sell%20faster%20and%20close%20bigger%20deals.jpg?width=6300&name=11%20ways%20to%20sell%20faster%20and%20close%20bigger%20deals.jpg"
+        },
+        "program (počítačový)": {
+            "value": "program",
+            "img": "https://www.gdquest.com/tutorial/godot/learning-paths/developer/img/rpginabox.png",
+            "help": "https://www.gdquest.com/tutorial/godot/learning-paths/developer/"
+        },
+        "prohrát": {
+            "value": "lose",
+            "img": "https://www.latfusa.com/media/uploads/2017/10/26/puig.jpg"
+        },
+        "procházet (kolem)": {
+            "value": "walk (around)",
+            "img": "http://nancynwilson.com/wp-content/uploads/2013/08/Going-around-in-circles.jpg"
+        },
+        "prosinec": {
+            "value": "December",
+            "img": "https://amirhoseinghazi.files.wordpress.com/2015/12/december-2013_wallpaper.jpg"
+        },
+        "prostor": {
+            "value": "space",
+            "img": "https://les.mitsubishielectric.co.uk/assets/Uploads/328a039bfe/Changing-view-from-space.jpg"
+        },
+        "prst (u nohy)": {
+            "value": "toe",
+            "img": "https://www.vequill.com/wp-content/uploads/2018/01/Toe-Rings.jpg"
+        },
+        "prst (u ruky)": {
+            "value": "finger",
+            "img": "http://purepng.com/public/uploads/large/purepng.com-one-finger-handhandsprehensilemulti-fingered-organforearmhandfingerprintsfingersone-finger-hand-14215268991133rbdo.png"
+        },
+        "prst": {
+            "value": "finger",
+            "img": "http://purepng.com/public/uploads/large/purepng.com-one-finger-handhandsprehensilemulti-fingered-organforearmhandfingerprintsfingersone-finger-hand-14215268991133rbdo.png"
+        },
+        "první": {
+            "value": "first",
+            "img": "https://thumbs.dreamstime.com/z/first-place-ribbon-11657343.jpg"
+        },
+        "přání": {
+            "value": "wish",
+            "img": "https://www.lovethispic.com/uploaded_images/152538-Make-A-Wish.jpg"
+        },
+        "přídavné jméno": {
+            "value": "adjective",
+            "img": "https://english4today.com/wp-content/uploads/adjectives1.png"
+        },
+        "příroda": {
+            "value": "nature",
+            "img": "http://thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg"
+        },
+        "psát": {
+            "value": "write",
+            "img": "https://www.wikihow.com/images/1/11/Write-a-Quatrain-Poem-Step-7.jpg"
+        },
+        "pták": {
+            "value": "bird",
+            "img": "https://www.pixelstalk.net/wp-content/uploads/2016/04/Bird-wallpaper-download-free.jpg"
+        },
+        "půda": {
+            "value": "soil",
+            "img": "https://agtechthinking.com/wp-content/uploads/2019/09/hand-of-soil.jpg"
+        },
+        "půl": {
+            "value": "half",
+            "img": "https://planningwithkids.com/wp-content/2009/08/happy-half-birthday.jpg"
+        }
+    },
+    "r": {
+        "rádio": {
+            "value": "radio",
+            "img": "http://storycase.co.uk/radio/wp-content/uploads/2013/12/Main5.jpg"
+        },
+        "rameno": {
+            "value": "shoulder",
+            "img": "https://ce.mayo.edu/sites/ce.mayo.edu/files/cpd-websiteimage-Shoulder-3718123.jpg"
+        },
+        "ráno": {
+            "value": "morning",
+            "img": "http://1.bp.blogspot.com/_zu3aStb_b4U/TNkFlMQ-7oI/AAAAAAAAIgQ/cGyjSdKQS2M/s1600/P1120099A.JPG"
+        },
+        "rasa (etnický původ)": {
+            "value": "race (ethnic origin)",
+            "img": "https://i2.wp.com/www.peopleofar.com/wp-content/uploads/Caucasian-faces.jpg"
+        },
+        "restaurace": {
+            "value": "restaurant",
+            "img": "https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2019/07/RestaurantEugene01_courtesy.jpg"
+        },
+        "ret": {
+            "value": "lip",
+            "img": "https://www.healthadvantages.net/wp-content/uploads/2019/12/your-guide-to-the-different-types-of-lip-fillers.jpg"
+        },
+        "roční období": {
+            "value": "season",
+            "img": "http://www.guruparents.com/image-files/seasons-chart-pictures-southern-hemisphere.png"
+        },
+        "rodič (= matka/otec)": {
+            "value": "parent",
+            "img": "https://budgetindianvacations.files.wordpress.com/2014/12/parent-and-child-together.jpg"
+        },
+        "rodina": {
+            "value": "family",
+            "img": "http://www.informationdiary.com/wp-content/uploads/2017/03/parent-child-relationship-building-activities-21458.jpg"
+        },
+        "roh": {
+            "value": "corner",
+            "img": "http://blog.armchairbuilder.com/wp-content/uploads/2012/04/California-Corner.jpg"
+        },
+        "rok": {
+            "value": "year",
+            "img": "https://www.thesavvylist.com/wp-content/uploads/2020/07/make-2021-a-better-year.jpg"
+        },
+        "rostlina": {
+            "value": "plant",
+            "img": "https://www.hotbeautyhealth.com/wp-content/uploads/2018/03/rosemary-plant.jpg"
+        },
+        "rovně": {
+            "value": "straight",
+            "img": "http://mysticalraven.com/wp-content/uploads/2017/07/straight-2065314_960_720-760x507.jpg"
+        },
+        "ruka": {
+            "value": "hand",
+            "img": "https://jooinn.com/images/hand-closeup-2.jpg"
+        },
+        "růst": {
+            "value": "grow",
+            "img": "https://www.cbn.com/images8/GrowImage_plant.jpg"
+        },
+        "růžový": {
+            "value": "pink",
+            "img": "https://www.drodd.com/images16/hot-pink8.jpg"
+        },
+        "ryba": {
+            "value": "fish",
+            "img": "https://fishsubsidy.org/wp-content/uploads/2020/02/tropical-4395272_960_720.jpg"
+        },
+        "rychlý": {
+            "value": "fast",
+            "img": "https://dispatcheseurope.com/wp-content/uploads/2016/02/fast-train.jpg"
+        },
+        "rýže": {
+            "value": "rice",
+            "img": "https://weknowyourdreams.com/images/rice/rice-01.jpg"
+        }
+    },
+    "ř": {
+        "řeka": {
+            "value": "river",
+            "img": "https://historic-liverpool.co.uk/wp-content/uploads/2014/10/River-Alt-by-Ian-Greig.jpg"
+        },
+        "řezat/krájet/stříhat": {
+            "value": "cut",
+            "img": "https://www.tablespoon.com/-/media/Images/Articles/Content/meals/other/how-to-cut-an-avocado/CutAvocado_hero.jpeg"
+        },
+        "řídit": {
+            "value": "drive",
+            "img": "https://craigadamadgie.files.wordpress.com/2015/12/ryan-gosling-in-drive.jpg"
+        },
+        "říjen": {
+            "value": "October",
+            "img": "https://www.fastweb.com/uploads/article_photo/photo/2036921/crop635w_October.jpg"
+        }
+    },
+    "s": {
+        "samohláska": {
+            "value": "vowel",
+            "img": "http://2.bp.blogspot.com/-Qbfiod2a0fw/UINbOfO3JxI/AAAAAAAADEE/VzJeFQhskOI/w1200-h630-p-k-nu/vowel+song.png"
+        },
+        "sedět": {
+            "value": "sit",
+            "img": "https://www.posturite.co.uk/media/catalog/product/cache/4/image/1000x/9df78eab33525d08d6e5fb8d27136e95/d/i/disco-sit-chair_1.jpg"
+        },
+        "sedm": {
+            "value": "seven",
+            "img": "http://clipground.com/images/seven-clipart-10.jpg"
+        },
+        "sedmdesát": {
+            "value": "seventy",
+            "img": "https://gclabels.net/image/cache/data/new/inv/new/Number-Seventy-70-Fluorescent-Circle-or-Square-Labels-QC%20278-600x600.png"
+        },
+        "sedmnáct": {
+            "value": "seventeen",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/17_white%2C_blue_rounded_rectangle.svg/780px-17_white%2C_blue_rounded_rectangle.svg.png"
+        },
+        "sekretářka": {
+            "value": "secretary",
+            "img": "https://www.itechfy.com/wp-content/uploads/2019/09/Good-Secretary.jpg"
+        },
+        "sekunda": {
+            "value": "sec",
+            "img": "http://il6.picdn.net/shutterstock/videos/10867469/thumb/1.jpg"
+        },
+        "semínko": {
+            "value": "seed",
+            "img": "https://opimedia.azureedge.net/-/media/images/men/editorial/special-projects/what-to-plant-now/what-to-plant-now/planting-seeds-jpg.jpg"
+        },
+        "sen": {
+            "value": "dream",
+            "img": "https://www.atlanticuniv.edu/media/11565/dream-interpretation-certificate.jpg"
+        },
+        "sestra": {
+            "value": "sister",
+            "img": "http://www.missmaturita.cz/data/USR_001_OBRAZKY/IMG_5178.JPG"
+        },
+        "sever": {
+            "value": "north",
+            "img": "https://banner2.kisspng.com/20180331/dbw/kisspng-north-arrow-compass-rose-clip-art-5-star-5abf4a430f85d3.5856478415224858270636.jpg"
+        },
+        "sex": {
+            "value": "sex",
+            "img": "https://apis.xogrp.com/media-api/images/54f8e13c-e44a-427d-accd-045379ca2fa3"
+        },
+        "silný": {
+            "value": "strong",
+            "img": "http://www.trainbodyandmind.com/wp-content/uploads/2010/12/strong-back-4.jpg"
+        },
+        "síť": {
+            "value": "net",
+            "img": "https://media.buzzle.com/media/images-en/photos/utilities/1200-8563113-seine-net.jpg"
+        },
+        "skákat": {
+            "value": "jump",
+            "img": "https://media.coindesk.com/uploads/2017/03/Jump.jpg"
+        },
+        "sklo": {
+            "value": "glass",
+            "img": "https://insights.globalspec.com/images/assets/494/6494/glass-sheets2.jpg"
+        },
+        "skvrna": {
+            "value": "stain",
+            "img": "https://media4.s-nbcnews.com/j/newscms/2016_01/926906/red-wine-stain-spill-today-stock-tease-160108_f9f48aedf5c910eef1b5685b1328da85.1200;630;7;70;5.jpg"
+        },
+        "slabý": {
+            "value": "weak",
+            "img": "https://cdn2.vectorstock.com/i/1000x1000/38/26/opposite-words-for-strong-and-weak-vector-18783826.jpg"
+        },
+        "slavný": {
+            "value": "famous",
+            "img": "https://i.ytimg.com/vi/jkXvgKThhfw/maxresdefault.jpg"
+        },
+        "sledovat (televizi)": {
+            "value": "watch (TV)",
+            "img": "https://www.bestavreceiver.com/wp-content/uploads/2017/11/family_watching_tv.jpg"
+        },
+        "slepý": {
+            "value": "blind",
+            "img": "http://images.halloweencostumes.com/products/4665/1-1/blind-referee-costume.jpg"
+        },
+        "sloveso": {
+            "value": "verb",
+            "img": "https://7esl.com/wp-content/uploads/2018/01/Verb-and-preposition-WITH.jpg"
+        },
+        "slunce": {
+            "value": "sun",
+            "img": "https://i.ytimg.com/vi/OPKwzNPtQQg/maxresdefault.jpg"
+        },
+        "slyšet zvuk": {
+            "value": "hear sound",
+            "img": "https://www.medclique.org/wp-content/uploads/2019/04/hearing-process.jpg"
+        },
+        "slza": {
+            "value": "tear",
+            "img": "https://i.ytimg.com/vi/djJj4Sk8HX0/maxresdefault.jpg"
+        },
+        "smát se": {
+            "value": "laugh",
+            "img": "https://www.teambonding.com/wp-content/uploads/2013/10/laugh-3.jpg"
+        },
+        "směr": {
+            "value": "direction",
+            "img": "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/businessperson-changing-direction-concept-illustration.jpg?itok=1mII9tKp"
+        },
+        "smlouva": {
+            "value": "contract",
+            "img": "https://employmentlawmatters.com/wordpress/wp-content/uploads/2018/08/contract-law-las-vegas.jpg"
+        },
+        "smrt": {
+            "value": "death",
+            "img": "https://aboutislam.net/wp-content/uploads/2019/08/How-to-Cope-with-Fear-of-Death-Snake-Phobia.jpg"
+        },
+        "smutný": {
+            "value": "sad",
+            "img": "https://media1.popsugar-assets.com/files/thumbor/nyktLOMRp0evJOvMVW019EgNqJw/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2015/11/11/972/n/1922441/f7ce216f_edit_img_facebook_post_image_file_15632182_1444082400_Selena-FB.jpg"
+        },
+        "snídaně": {
+            "value": "breakfast",
+            "img": "https://skipthesalt.com/wp-content/uploads/2017/06/low-sodium-breakfast.jpgvv"
+        },
+        "sníh": {
+            "value": "snow",
+            "img": "http://weknowyourdreams.com/images/snow/snow-02.jpg"
+        },
+        "sobota": {
+            "value": "Saturday",
+            "img": "http://eunicakes.files.wordpress.com/2013/12/saturday-motivation-6.png"
+        },
+        "soud": {
+            "value": "court",
+            "img": "https://www.electricchoice.com/wp-content/uploads/2013/10/supreme-court.jpg"
+        },
+        "souhláska": {
+            "value": "consonant",
+            "img": "https://www.englishradar.com/wp-content/uploads/2017/11/English-consonant-sounds.png"
+        },
+        "soused": {
+            "value": "neighbor",
+            "img": "https://dwcarson.files.wordpress.com/2012/11/neighbor.jpg"
+        },
+        "spát": {
+            "value": "sleep",
+            "img": "http://i.huffpost.com/gen/1764414/thumbs/o-TEEN-SLEEPING-facebook.jpg"
+        },
+        "sport": {
+            "value": "sport",
+            "img": "https://www.solent.ac.uk/image-library/solent-sport/team-solent-athletics.jpg"
+        },
+        "srdce": {
+            "value": "heart",
+            "img": "http://health.sunnybrook.ca/wp-content/uploads/2018/03/heart-failure.jpg"
+        },
+        "srpen": {
+            "value": "August",
+            "img": "https://n7jmr7muhj-flywheel.netdna-ssl.com/wp-content/uploads/2016/07/August.jpg"
+        },
+        "starý (vs. mladý)": {
+            "value": "old (vs. young)",
+            "img": "https://static.boredpanda.com/blog/wp-content/uploads/2017/04/young-vs-old-portraits-faces-of-century-jan-langer-fb.png"
+        },
+        "starý (vs. nový)": {
+            "value": "old (vs. new)",
+            "img": "https://chrisbeon.co.uk/wp-content/uploads/2018/03/shutterstock_557373748.jpg"
+        },
+        "stát": {
+            "value": "state",
+            "img": "https://www.mapsopensource.com/images/czech-republic-states-map.gif"
+        },
+        "statek": {
+            "value": "farmhouse",
+            "img": "https://freshome.com/wp-content/uploads/2016/04/Farm-Feature.jpg"
+        },
+        "stavět": {
+            "value": "build",
+            "img": "http://www.habitat.org/sites/default/files/2016-10/americorps-roof-louisiana-buildathon_4.jpg"
+        },
+        "stěna": {
+            "value": "wall",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Concrete_wall.jpg/1200px-Concrete_wall.jpg"
+        },
+        "sto": {
+            "value": "hundred",
+            "img": "http://www.pngplay.com/wp-content/uploads/1/100-Number-PNG-Free-Image.png"
+        },
+        "stopa (míra)": {
+            "value": "footprint",
+            "img": "https://thecreationclub.com/wp-content/uploads/2017/09/footprint-908273-2.jpg"
+        },
+        "stránka": {
+            "value": "page",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Wikipedia.org-new-layout_full-page-Aug2016_screenshot.png"
+        },
+        "strom": {
+            "value": "tree",
+            "img": "http://www.thetreecenter.com/wp-content/uploads/pin-oak-2.jpg"
+        },
+        "strop": {
+            "value": "ceiling",
+            "img": "https://www.commodorehomes.com/media/uploads/1/10062_Tray-Ceiling-DE3003P.jpg"
+        },
+        "středa": {
+            "value": "Wednesday",
+            "img": "https://i.ytimg.com/vi/1oxv8_D2d7A/maxresdefault.jpg"
+        },
+        "střecha": {
+            "value": "roof",
+            "img": "http://www.raremanufacturing.com/wp-content/uploads/2015/08/Rare-Manufacturing-Contractors.jpg"
+        },
+        "stříbro": {
+            "value": "silver",
+            "img": "http://www.dakotamatrix.com/images/products/silver34386c.jpg"
+        },
+        "strílet": {
+            "value": "shoot",
+            "img": "http://captainhunter.com/wp-content/uploads/2016/09/how-to-shoot-2.jpg"
+        },
+        "studený": {
+            "value": "cold",
+            "img": "https://www.readersdigest.ca/wp-content/uploads/2019/09/cold-weather-can-alleviate-allergies.jpg"
+        },
+        "stůl": {
+            "value": "table",
+            "img": "https://porterbarnwood.com/wp-content/uploads/2019/02/KruegerTableFT-1.jpg"
+        },
+        "suchý": {
+            "value": "dry",
+            "img": "https://www.msgdental.co.uk/wp-content/uploads/2018/02/dry.jpg"
+        },
+        "sukně": {
+            "value": "skirt",
+            "img": "https://cdnc.lystit.com/photos/2012/08/01/burberry-brit-black-pleated-kilt-skirt-product-2-4355615-695579173.jpeg"
+        },
+        "sůl": {
+            "value": "salt",
+            "img": "http://i.huffpost.com/gen/1660709/images/o-SALT-facebook.jpg"
+        },
+        "stavba": {
+            "value": "building",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Scanlan_Building_(405_Main).JPG/1200px-Scanlan_Building_(405_Main).JPG"
+        },
+        "svět": {
+            "value": "world",
+            "img": "http://transitionofthoughts.com/wp-content/uploads/2018/10/travel-world.jpg"
+        },
+        "světlo": {
+            "value": "light",
+            "img": "https://www.loftworldltd.co.uk/wp-content/uploads/2015/11/wall-peel-light.jpg"
+        },
+        "světlý": {
+            "value": "light",
+            "img": "https://newkilpatrickblog.typepad.com/files/dazzlinglightblank.jpg"
+        },
+        "syn": {
+            "value": "son",
+            "img": "https://s-i.huffpost.com/gen/1679744/images/o-SON-FATHER-facebook.jpg"
+        },
+        "sýr": {
+            "value": "cheese",
+            "img": "https://www.wuwm.com/sites/wuwm/files/styles/x_large/public/201906/cheese-4016647_960_720.jpg"
+        }
+    },
+    "š": {
+        "šaty": {
+            "value": "dress",
+            "img": "http://dreamicus.com/data/dress/dress-05.jpg"
+        },
+        "šedesát": {
+            "value": "sixty",
+            "img": "http://www.youthallies.com/wp-content/uploads/2013/10/At-least-60-votes-for-ENDA-590x385.jpg"
+        },
+        "šedý": {
+            "value": "gray",
+            "img": "http://www.countertopsnewjersey.com/wp-content/gallery/quartz-countertops-sale-colors-nj/Q-Quartz-Ash-Gray.jpg"
+        },
+        "šest": {
+            "value": "six",
+            "img": "https://www.activityshelter.com/wp-content/uploads/2016/06/picture-of-the-number-6-black-color.jpg"
+        },
+        "šestnáct": {
+            "value": "sixteen",
+            "img": "https://i.ytimg.com/vi/mLQNvuZH3GU/maxresdefault.jpg"
+        },
+        "široký": {
+            "value": "wide",
+            "img": "https://www.learnenglishteam.com/wp-content/uploads/2018/11/narrow-wide.jpg"
+        },
+        "škola": {
+            "value": "school",
+            "img": "http://fitz.k12.mi.us/wp-content/themes/fitzgerald-wa/images/school/highschool.png"
+        },
+        "špatný": {
+            "value": "not good",
+            "img": "http://forhomeremedies.com/wp-content/uploads/2016/08/Processed-food-not-good-for-health.png"
+        },
+        "špinavý": {
+            "value": "dirty",
+            "img": "https://images.csmonitor.com/csmarchives/2010/02/02-22-reality-shows.jpg?alias=standard_900x600"
+        }
+    },
+    "t": {
+        "táhnout": {
+            "value": "pull",
+            "img": "http://easyscienceforkids.com/wp-content/uploads/2013/06/push-and-pull-e1449475314339.jpg"
+        },
+        "talíř": {
+            "value": "plate",
+            "img": "https://img.cadnav.com/allimg/170914/cadnav-1F914111A2.jpg"
+        },
+        "tančit": {
+            "value": "dance",
+            "img": "https://dancesportkingdom.com.au/wp-content/uploads/2016/07/ballroom2.jpg"
+        },
+        "taška": {
+            "value": "bag",
+            "img": "https://i.ytimg.com/vi/5ZjIccFGkJw/maxresdefault.jpg"
+        },
+        "tát": {
+            "value": "melt",
+            "img": "https://www.thebellevuegazette.com/wp-content/uploads/2018/02/Ice-Cube-Melt-201712.jpg"
+        },
+        "tečka": {
+            "value": "dot",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BlackDot.svg/600px-BlackDot.svg.png"
+        },
+        "technologie": {
+            "value": "technology",
+            "img": "http://anthillonline.com/wp-content/uploads/2015/09/technology.png"
+        },
+        "telefon": {
+            "value": "phone",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nokia_3310_3G_(20180116).jpg/1200px-Nokia_3310_3G_(20180116).jpg"
+        },
+        "televize": {
+            "value": "TV",
+            "img": "https://i.ytimg.com/vi/RWCEW32hQJo/maxresdefault.jpg"
+        },
+        "tělo": {
+            "value": "body",
+            "img": "https://thumbs.dreamstime.com/b/human-anatomy-visualization-internal-organs-d-semi-transparent-male-body-53793572.jpg"
+        },
+        "tenký": {
+            "value": "thin",
+            "img": "https://prepdennis.files.wordpress.com/2014/03/140305_thick-thin-4.jpg"
+        },
+        "teplota": {
+            "value": "temperature",
+            "img": "http://static.bhphotovideo.com/explora/explora/sites/default/files/Color-Temperature.jpg"
+        },
+        "teplý": {
+            "value": "warm",
+            "img": "https://www.servicechampions.net/wp-content/uploads/2017/12/8-Ways-Warm-Cozy-Winter-Christmas-Service-Champions-1.jpg"
+        },
+        "těsný": {
+            "value": "tight",
+            "img": "http://acidcow.com/pics/20110824/girls_wearing_tight_19.jpg"
+        },
+        "těžký (o váze)": {
+            "value": "heavy",
+            "img": "https://content.thriveglobal.com/wp-content/uploads/2019/08/Heavy-backpack-carried-by-man-up-mountainside.jpeg"
+        },
+        "tichý": {
+            "value": "silent",
+            "img": "https://www.logitech.com/assets/64868/b220-silent-mouse.jpg"
+        },
+        "tisíc": {
+            "value": "thousand",
+            "img": "https://thumbs.dreamstime.com/z/one-thousand-number-1561437.jpg"
+        },
+        "tlačit": {
+            "value": "push",
+            "img": "http://easyscienceforkids.com/wp-content/uploads/2013/06/push-and-pull-e1449475314339.jpg"
+        },
+        "tlustý": {
+            "value": "fat",
+            "img": "http://assets.menshealth.co.uk/main/assets/lose-belly-fat-2.jpg?mtime=1461837586"
+        },
+        "tmavý": {
+            "value": "dark",
+            "img": "http://getwallpapers.com/wallpaper/full/1/b/3/70018.jpg"
+        },
+        "tráva": {
+            "value": "grass",
+            "img": "http://www.fredricksonlawnandlandscape.com/wp-content/uploads/2015/03/cut-grass-landscape.jpg"
+        },
+        "trh": {
+            "value": "market",
+            "img": "http://www.cookiesound.com/wp-content/uploads/2012/06/market-woman-vientiane-laos-3.jpg"
+        },
+        "tričko": {
+            "value": "t-shirt",
+            "img": "https://tshirtsfever.com/wp-content/uploads/2018/10/pubg-2-white-1024x891.jpg"
+        },
+        "třást": {
+            "value": "shake",
+            "img": "http://attireclub.files.wordpress.com/2013/01/advice-on-how-to-properly-shake-hands-with-someone.jpg"
+        },
+        "třetí": {
+            "value": "third",
+            "img": "https://clipground.com/images/third-clipart-2.jpg"
+        },
+        "tři": {
+            "value": "three",
+            "img": "https://chiefhro.files.wordpress.com/2017/10/red-3d-3.png"
+        },
+        "třicet": {
+            "value": "thirty",
+            "img": "https://www.thefactsite.com/wp-content/uploads/2015/10/number-thirty-facts.jpg"
+        },
+        "třináct": {
+            "value": "thirteen",
+            "img": "http://www.drodd.com/images15/13-28.png"
+        },
+        "tužka": {
+            "value": "pencil",
+            "img": "https://i.ytimg.com/vi/RSB9-jvfPR0/maxresdefault.jpg"
+        },
+        "tvrdý": {
+            "value": "hard",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Logan_Rock_Treen_closeup.jpg/1200px-Logan_Rock_Treen_closeup.jpg"
+        },
+        "ty": {
+            "value": "you",
+            "img": "https://thumbs.dreamstime.com/z/over-to-you-28107671.jpg"
+        },
+        "týden": {
+            "value": "week",
+            "img": "http://www.neatlings.com/uploads/4/5/1/2/45121665/neatlings-days-of-the-week-small.jpg"
+        },
+        "tým": {
+            "value": "team",
+            "img": "http://www.gofcr.com/wp-content/upload/2016/03/team-cohesion.jpg"
+        }
+    },
+    "u": {
+        "učit": {
+            "value": "teach",
+            "img": "https://philanthropy.coutts.com/content/dam/rbs-coutts/philanthropy/images/2013/case-studies/CH-teach-for-china.jpg"
+        },
+        "učit se": {
+            "value": "learn",
+            "img": "http://assets2.bigthink.com/system/idea_thumbnails/57418/original/Learning-how-to-learn.jpg?1419260864"
+        },
+        "učitel": {
+            "value": "teacher",
+            "img": "https://www.futurity.org/wp/wp-content/uploads/2018/04/teacher-at-blackboard_1600.jpg"
+        },
+        "údolí": {
+            "value": "Valley",
+            "img": "https://www.metropolitan-touring.com/wp-content/uploads/2015/08/Sacred-Valley-1.jpg"
+        },
+        "ucho": {
+            "value": "ear",
+            "img": "https://i.ytimg.com/vi/0ZfxO6uvgRY/maxresdefault.jpg"
+        },
+        "ulice/cesta": {
+            "value": "street/road",
+            "img": "https://images.pexels.com/photos/624064/pexels-photo-624064.jpeg?cs=srgb&dl=city-road-street-624064.jpg&fm=jpg"
+        },
+        "umělec": {
+            "value": "artist",
+            "img": "https://i.ytimg.com/vi/oYTJNWNpG50/maxresdefault.jpg"
+        },
+        "umění": {
+            "value": "art",
+            "img": "http://www.britannica-elt.com/wp-content/uploads/2015/09/modern-art.jpg"
+        },
+        "umřít": {
+            "value": "die",
+            "img": "https://hindi.oneindia.com/img/2017/12/suicide1-19-1513679539.jpg"
+        },
+        "univerzita": {
+            "value": "university",
+            "img": "https://d.newsweek.com/en/full/1592059/cambridge-university-lectures-online.jpg"
+        },
+        "únor": {
+            "value": "February",
+            "img": "http://www.gracefullygeekydesigns.com/assets/images/february2018.jpg"
+        },
+        "usmívat se": {
+            "value": "smile",
+            "img": "http://brainprick.com/wp-content/uploads/2013/04/Girl-Smiling.jpg"
+        },
+        "ústa": {
+            "value": "mouth",
+            "img": "https://www.sciencenews.org/wp-content/uploads/2018/07/072418_ti_mouth_feat_free.jpg"
+        },
+        "úterý": {
+            "value": "Tuesday",
+            "img": "https://www.yourselfquotes.com/wp-content/uploads/2018/03/Beautiful-Tuesday-Images.jpg"
+        },
+        "útok": {
+            "value": "attack",
+            "img": "https://d.ibtimes.co.uk/en/full/1410323/jerusalem-attack-synagogue-israel-palestine-terrorism.jpg"
+        },
+        "uvnitř": {
+            "value": "inside",
+            "img": "https://businesstech.co.za/news/wp-content/uploads/2017/03/Emerald-Double.jpg"
+        },
+        "úzký": {
+            "value": "narrow",
+            "img": "https://fengshuinexus.com/wp-content/uploads/2016/03/Long-Narrow-Alley-New-York-744x1024.jpg"
+        }
+    },
+    "v": {
+        "válka": {
+            "value": "war",
+            "img": "https://jasonlefkowitz.net/wp-content/uploads/2015/11/Our-World-War.jpg"
+        },
+        "vařit": {
+            "value": "cook",
+            "img": "https://weknowyourdreams.com/images/cook/cook-14.jpg"
+        },
+        "vdávat se/ženit se": {
+            "value": "marry",
+            "img": "https://img.playbuzz.com/image/upload/ar_1.5,c_pad,f_jpg,b_auto/cdn/f62c8393-cc41-414d-8361-b6be301bb2df/3e81a024-8a5d-4963-89f9-56cef13d83b5.jpg"
+        },
+        "večer": {
+            "value": "evening",
+            "img": "http://www.baltana.com/files/wallpapers-5/Evening-Wallpaper-HD-16688.jpg"
+        },
+        "večeře": {
+            "value": "dinner",
+            "img": "http://dreamstop.com/wp-content/uploads/2016/11/Dinner-Dreams.jpg"
+        },
+        "věda": {
+            "value": "science",
+            "img": "https://marketingland.com/wp-content/ml-loads/2017/01/test-experiment-science-chemistry-ss-1920.jpg"
+        },
+        "vedle": {
+            "value": "next to",
+            "img": "http://www.englishexercises.org/makeagame/my_documents/my_pictures/2012/mar/next_toOK.jpg"
+        },
+        "vejce": {
+            "value": "egg",
+            "img": "https://www.c-ville.com/wp-content/uploads/2015/03/egg2.jpg"
+        },
+        "velký/rozměrný": {
+            "value": "large",
+            "img": "https://pbs.twimg.com/media/C6lbLMkXUAAR_L4.jpg:large"
+        },
+        "venku": {
+            "value": "outdoors",
+            "img": "http://www.lovetheoutdoors.com/wp-content/uploads/2017/04/lto-header1.jpg"
+        },
+        "vepřové (maso)": {
+            "value": "pork",
+            "img": "http://dieplicious.files.wordpress.com/2013/01/pork-belly.jpg"
+        },
+        "veselý": {
+            "value": "cheerful",
+            "img": "https://image.freepik.com/free-photo/jump-cheerful-beauty-nature-cute_1301-3213.jpg"
+        },
+        "větrák": {
+            "value": "fun",
+            "img": "http://www.hunterdeskfan.com/wp-content/uploads/2013/05/90043-Rock-red.jpg"
+        },
+        "vězení": {
+            "value": "prison",
+            "img": "https://img.apmcdn.org/7910d17b9fe334e9167b2f29ba2b4f78e8c08045/uncropped/97463a-20190129-stillwater-prison-tour-04.jpg"
+        },
+        "vidět (ptáka)": {
+            "value": "see (bird)",
+            "img": "http://studenttravelplanningguide.com/wp-content/uploads/2015/07/Birds-of-Prey.jpg"
+        },
+        "vidlička": {
+            "value": "fork",
+            "img": "http://weknowyourdreams.com/images/fork/fork-06.jpg"
+        },
+        "víno": {
+            "value": "wine",
+            "img": "https://www.thespanishhamper.co.uk/wp-content/uploads/2018/03/Red-Rioja-Bujanda.jpg"
+        },
+        "viset": {
+            "value": "hang",
+            "img": "https://post.healthline.com/wp-content/uploads/2019/05/Dead-Hangs-1200x628-facebook.jpg"
+        },
+        "vítr": {
+            "value": "wind",
+            "img": "https://irp-cdn.multiscreensite.com/159d259b/dms3rep/multi/trees-blowing-in-the-wind-that-may-damage-your-roof.jpg"
+        },
+        "vlak": {
+            "value": "train",
+            "img": "https://cottagelife.com/wp-content/uploads/2019/10/Cottage-Life-Ontario-Northland-Train.jpg"
+        },
+        "vlasy": {
+            "value": "hair",
+            "img": "https://www.wikihow.com/images/4/49/Brush-Long-Hair-Intro.jpg"
+        },
+        "vlevo": {
+            "value": "left",
+            "img": "http://nofilmschool.com/sites/default/files/styles/facebook/public/left_right.jpg?itok=4hkVa-R-"
+        },
+        "vlna": {
+            "value": "wave",
+            "img": "http://fotofrenzy.com.au/wp-content/uploads/2017/06/Wave_Eye-1024x683.jpg"
+        },
+        "voda": {
+            "value": "water",
+            "img": "https://i.ytimg.com/vi/TuCqJdhiEA0/hqdefault.jpg"
+        },
+        "voják": {
+            "value": "soldier",
+            "img": "https://estonianworld.com/wp-content/uploads/2019/07/An-Estonian-soldier-in-Mali-I.jpg"
+        },
+        "volat": {
+            "value": "call",
+            "img": "https://negativespace.co/wp-content/uploads/2018/10/negative-space-businessman-call-mobile-communication-connection-hand-holding-suit-tie-smart-clothes-man.jpg"
+        },
+        "volby": {
+            "value": "elections",
+            "img": "https://www.brant.ca/en/resources/Images-/elections/elections.jpg"
+        },
+        "volný": {
+            "value": "free",
+            "img": "https://themastershift.com/wp-content/uploads/2015/03/girl-feeling-free.jpg"
+        },
+        "vousy": {
+            "value": "bread",
+            "img": "http://weknowyourdreams.com/images/bread/bread-06.jpg"
+        },
+        "vpravo": {
+            "value": "right",
+            "img": "http://nofilmschool.com/sites/default/files/styles/facebook/public/left_right.jpg?itok=4hkVa-R-"
+        },
+        "vpředu": {
+            "value": "forward",
+            "img": "https://www.caloriefeed.com/wp-content/uploads/2014/02/Looking-Forward-Image.jpg"
+        },
+        "vražda": {
+            "value": "murder",
+            "img": "https://blog.ipleaders.in/wp-content/uploads/2016/06/murder-451752.jpg"
+        },
+        "vy": {
+            "value": "you",
+            "img": "https://www1.cbn.com/sites/default/files/styles/image_xl_640x480/public/couple-blaming-each-other_SI.jpg?itok=tMSmp-MU"
+        },
+        "vybuchnout": {
+            "value": "explode",
+            "img": "https://static.standard.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2012/12/07/10/worldexplode.jpg"
+        },
+        "vyhrát": {
+            "value": "win",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/storage-2-eu/wp-content/uploads/2019/05/21172630/vwx-win.jpg"
+        },
+        "východ (vs. západ)": {
+            "value": "east (vs. west)",
+            "img": "https://www.mindjet.com/blog/wp-content/uploads/sites/6/2012/08/JESS3_Mindjet_BtwMnd_EastVsWest_580x290.jpg"
+        },
+        "výsoký (ne o člověku)": {
+            "value": "high",
+            "img": "https://jooinn.com/images/high-building-27.png"
+        },
+        "výsoký (o člověku)": {
+            "value": "tall",
+            "img": "http://2.bp.blogspot.com/-SKRy4PA6H68/VqUWMg6llhI/AAAAAAAAIyo/DS5XGSPgAaA/s1600/5-Very-Tall-Women-Height-Comparison.jpeg"
+        },
+        "vzadu": {
+            "value": "at the back",
+            "img": "https://www.sunnyskyz.com/uploads/2015/08/e052b-holding-back-lg.jpg"
+        },
+        "vzduch": {
+            "value": "air",
+            "img": "http://climate.nasa.gov/system/questions/15_nose_AirWeBreathe_sm.jpg"
+        },
+        "vzkaz": {
+            "value": "message",
+            "img": "https://www.gettimely.com/wp-content/uploads/2015/02/Message-received-green.png"
+        },
+        "vzor": {
+            "value": "pattern",
+            "img": "http://www.freevector.com/site_media/preview_images/FreeVector-Abstract-Ethno-Pattern.jpg"
+        }
+    },
+    "z": {
+        "zabít": {
+            "value": "kill",
+            "img": "https://kb.rspca.org.au/wp-content/uploads/2019/01/crab-kill-with-knife.jpg"
+        },
+        "záda": {
+            "value": "back",
+            "img": "https://www.quickanddirtytips.com/sites/default/files/images/14886/maleStrongBack.png"
+        },
+        "zahrada": {
+            "value": "gardens",
+            "img": "http://www.carington.co.uk/wp-content/uploads/2013/10/manor-gardens-lawn.jpg"
+        },
+        "zákusek": {
+            "value": "dessert",
+            "img": "https://pastryaddiction.files.wordpress.com/2012/10/vegan_chocolate_dessert.jpg"
+        },
+        "zámek (u dvěří)": {
+            "value": "door lock",
+            "img": "https://brinkmannhardware.com/wp-content/uploads/2017/12/Door-Locks-to-Protect-Your-Home.jpg"
+        },
+        "západ (vs. východ)": {
+            "value": "west (vs. east)",
+            "img": "https://www.mindjet.com/blog/wp-content/uploads/sites/6/2012/08/JESS3_Mindjet_BtwMnd_EastVsWest_580x290.jpg"
+        },
+        "září": {
+            "value": "September",
+            "img": "https://viewber.co.uk/userfiles/blog/.knowledge-main/5d669e842b152-september-autumn-scene-2019.jpg"
+        },
+        "zastavit": {
+            "value": "stop",
+            "img": "http://blog.sprinklebit.com/wp-content/uploads/2012/10/stop-sign.jpg"
+        },
+        "závod (sport)": {
+            "value": "race",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GGF_Race5.jpg/1200px-GGF_Race5.jpg"
+        },
+        "zavřít": {
+            "value": "close",
+            "img": "http://prevention1st.org/wp-content/uploads/2016/10/iStock_000043826172_Medium_Close_the-Door.jpg"
+        },
+        "zbraň": {
+            "value": "weapon",
+            "img": "http://docs.cryengine.com/download/attachments/1310920/weaponIngame.jpg?version=1&modificationDate=1308316918000&api=v2"
+        },
+        "zdravý": {
+            "value": "healthy",
+            "img": "https://cff2.earth.com/uploads/2019/07/25145620/The-high-cost-of-healthy-foods-linked-to-malnutrition-across-the-globe.jpg"
+        },
+        "zelený": {
+            "value": "green",
+            "img": "https://i.ytimg.com/vi/FuHrLg8Ew7Q/maxresdefault.jpg"
+        },
+        "země (vs. nebe)": {
+            "value": "earth (vs. sky)",
+            "img": "http://www.gpb.org/sites/www.gpb.org/files/_field_production_main_image/earth_sky_main.jpg"
+        },
+        "Země": {
+            "value": "Earth",
+            "img": "http://weknowyourdreams.com/images/earth/earth-13.jpg"
+        },
+        "země (USA, Francie atd.)": {
+            "value": "country",
+            "img": "https://www.myinterestingfacts.com/wp-content/uploads/2014/01/Czech-Republic-Country.jpg"
+        },
+        "zima (vs. léto)": {
+            "value": "winter",
+            "img": "https://www.carbonbrief.org/wp-content/uploads/2015/06/stock-winter-sun-uk.jpg"
+        },
+        "zlato": {
+            "value": "gold",
+            "img": "http://i.telegraph.co.uk/multimedia/archive/02452/gold_2452762k.jpg"
+        },
+        "zlomit/rozbít": {
+            "value": "break",
+            "img": "http://www.seeds4thesoul.com/wp-content/uploads/2014/09/breaking_glass_18296.jpg"
+        },
+        "zlý": {
+            "value": "evil",
+            "img": "http://dreamicus.com/data/evil/evil-04.jpg"
+        },
+        "znamení": {
+            "value": "sign",
+            "img": "https://media.consumeraffairs.com/files/news/Deer_crossing_sign_Stephen_Finn_Fotolia.jpg"
+        },
+        "zpívat": {
+            "value": "sing",
+            "img": "https://joyofandroid.com/wp-content/uploads/2019/05/sing-karaoke-app-1.jpg"
+        },
+        "zranění": {
+            "value": "injury",
+            "img": "http://www.ritecaremc.com/wp-content/uploads/2018/02/Hand-injury-miami-1080x675.jpg"
+        },
+        "zub": {
+            "value": "tooth",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Weisheitsz%C3%A4hne-1.jpg/1200px-Weisheitsz%C3%A4hne-1.jpg"
+        },
+        "zvednout": {
+            "value": "lift",
+            "img": "https://www.uktech.news/wp-content/uploads/2016/06/lifting-the-lid.jpg"
+        },
+        "zvíře": {
+            "value": "animal",
+            "img": "https://www.pixelstalk.net/wp-content/uploads/2016/03/Cool-Wild-Animal-Wallpaper-For-Desktop.jpg"
+        },
+        "zvuk": {
+            "value": "sound",
+            "img": "http://www.madaboutscienceincursions.com.au/wp-content/uploads/2018/02/light-and-sound.jpg"
+        }
+    },
+    "ž": {
+        "žák/student": {
+            "value": "student",
+            "img": "https://facetheworldngo.files.wordpress.com/2015/03/asian-student-in-library.jpg"
+        },
+        "žena": {
+            "value": "woman",
+            "img": "http://www.iloveindia.com/astrology/sun-signs/images/aries-woman.jpg"
+        },
+        "ženský": {
+            "value": "female",
+            "img": "http://www.lolwot.com/wp-content/uploads/2015/04/14-of-the-hottest-female-comedians-12.jpg"
+        },
+        "židle": {
+            "value": "chair",
+            "img": "https://s3.dutchcrafters.com/productimages/product_images/pid_57593-Amish-Lawson-Dining-Chair--610.jpg"
+        },
+        "živý": {
+            "value": "life",
+            "img": "https://www.techunveiled.com/wp-content/uploads/2019/08/life-cycle-picture.jpg"
+        },
+        "žlutý": {
+            "value": "yellow",
+            "img": "https://s3-prod.adage.com/s3fs-public/styles/800x600/public/YellowRectangle2_3x2.jpg"
+        }
+    }
+}
